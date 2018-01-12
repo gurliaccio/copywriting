@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior copywriter">
+    <meta name="description" content="Michael Gurliaccio is a senior copywriter, brand strategist, content manager, tech nerd">
     <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing">
     <meta name="author" content="Michael Gurliaccio">
-    <title>COPYCRAFTER</title>
+    <title>COPYWRITER</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">
     <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />
@@ -117,16 +117,11 @@
         <!-- LEFT PART OF THE ABOUT SECTION -->
         <div class="col-md-6">
             <div class="row">
-                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter who loves many things: creative strategy, brand development, UX, travel, stand-up comedy,<br><span style="font-weight:bold;color:pink;">heavy metal,</span> and <em>writing</em>.</h2>
+                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy,<br><span style="font-weight:bold;color:pink;">heavy metal,</span> and <em>writing</em>.</h2>
                 <br>
-                <p class="wow fadeInDown" data-wow-duration="3s">Since 2003, I’ve crafted copy for advertising agencies and in-house marketing teams across the country. I've worked hard with art directors, designers, developers, photographers, account managers, and clients to create thoughtful and compelling work for digital, print, and broadcast media.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p>
 
-                <p class="wow fadeInDown" data-wow-duration="4s">I'm very excited about the future of communications. As much as things have changed in my industry since I started my career
-                    <span style="color:darkgrey">&mdash; and have they ever &mdash;</span>
-                    I think things are going to get <em>really interesting</em> and <em>fast!</em>
-                </p>
-
-                <p class="wow fadeInDown" data-wow-duration="5s">I don't think there's ever been a more interesting time to be a copywriter. The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p>
+                <p class="wow fadeInDown" data-wow-duration="5s">The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p>
             </div>
             <!-- ABOUT INFO END -->
 

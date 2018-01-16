@@ -117,7 +117,7 @@
         <!-- LEFT PART OF THE ABOUT SECTION -->
         <div class="col-md-6">
             <div class="row">
-                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy,<br><span style="font-weight:bold;color:pink;">heavy metal,</span> and <em>writing</em>.</h2>
+                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, stand-up comedy,<br><span style="font-weight:bold;color:blue;">travel,</span> and <em>writing</em>.</h2>
                 <br>
                 <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p>
 

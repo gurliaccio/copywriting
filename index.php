@@ -117,11 +117,13 @@
         <!-- LEFT PART OF THE ABOUT SECTION -->
         <div class="col-md-6">
             <div class="row">
-                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, stand-up comedy,<br><span style="font-weight:bold;color:blue;">travel,</span> and <em>writing</em>.</h2>
+                <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy, and writing. A lot of writing.</h2>
                 <br>
-                <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country.</p>
 
-                <p class="wow fadeInDown" data-wow-duration="5s">The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p>
+                <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
+
+                <!-- <p class="wow fadeInDown" data-wow-duration="5s">The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p> -->
             </div>
             <!-- ABOUT INFO END -->
 
@@ -265,7 +267,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
                 <h4>AIG</h4>
-                <p>I was the lead writer for an enterprise-wide media-integrated push to improve customer experience. In addition to ghostwriting speeches for several executives, I created copy for website pages, print, social, and email campaigns, event collateral, and video presentations.</p>
+                <p>I was the lead writer for an enterprise-wide media-integrated push to improve customer experience. In addition to ghostwriting both external and internal speeches for several executives, I created copy for intranet website pages, print and email campaigns, event collateral, and video presentations.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->

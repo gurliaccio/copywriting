@@ -90,23 +90,23 @@
     <!-- ===========================
     FEATURED CLIENTS SECTION
     =========================== -->
-    <div id="clients">
+    <!-- <div id="clients">
         <div class="container">
             <div class="col-md-2">
                 <h4>Clients Include:</h4>
             </div>
             <div class="col-md-10">
-                <ul>
+                <ul> -->
                     <!--CLIENTS LOGO-->
-                    <li><img src="img/MSFT.png" alt="Microsoft" style="height:80px"></li>
+                <!--     <li><img src="img/MSFT.png" alt="Microsoft" style="height:80px"></li>
                     <li><img src="img/oracle.png" alt="Oracle" style="height:80px"></li>
                     <li><img src="img/ford.png" alt="Ford" style="height:80px"></li>
                     <li><img src="img/aig.png" alt="AIG" style="height:80px"></li>
-                </ul>
+                </ul> -->
                 <!--CLIENTS LOGO END-->
-            </div>
+    <!--         </div>
         </div>
-    </div>
+    </div> -->
     <!--FEATURED CLIENTS SECTION END-->
 
     <!-- ===========================
@@ -115,7 +115,12 @@
     <div id="about" class="container">
 
         <!-- LEFT PART OF THE ABOUT SECTION -->
-        <div class="col-md-6">
+        <div class="col-md-10">
+
+<!-- <div class="row">
+    <div class="col-lg-1 col-centered"></div>
+</div> -->
+            
             <div class="row">
                 <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy, and writing. A lot of writing.</h2>
                 <br>
@@ -147,10 +152,9 @@
         <!--Left part end-->
 
         <!-- RIGHT PART OF THE ABOUT SECTION -->
-        <div class="col-md-6 wow fadeInUp myphoto" data-wow-duration="6s">
-            <!-- <img src="img/user.png" alt=""> -->
+        <!-- <div class="col-md-6 wow fadeInUp myphoto" data-wow-duration="6s">
             <img src="img/sign.png" style="max-width: 60%;margin-top: 1%;margin-left: 30%;">
-        </div>
+        </div> -->
         <!-- RIGHT PART OF THE ABOUT SECTION END -->
     </div>
     <!-- ABOUT SECTION END -->

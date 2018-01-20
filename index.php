@@ -115,13 +115,14 @@
     <div id="about" class="container">
 
         <!-- LEFT PART OF THE ABOUT SECTION -->
-        <div class="col-md-10">
+        <!-- <div class="col-md-10"> -->
 
 <!-- <div class="row">
     <div class="col-lg-1 col-centered"></div>
 </div> -->
-            
-            <div class="row">
+
+        <div class="row">
+            <div class="col-lg-1 col-centered">
                 <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy, and writing. A lot of writing.</h2>
                 <br>
                 <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country.</p>
@@ -129,10 +130,12 @@
                 <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
 
                 <!-- <p class="wow fadeInDown" data-wow-duration="5s">The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p> -->
-            </div>
-            <!-- ABOUT INFO END -->
+                <!--     </div>
+                </div> -->
 
-            <div class="myapps row">
+                <!-- ABOUT INFO END -->
+
+                <!-- <div class="myapps row"> -->
                 <h5 class="wow animated bounceInUp" data-wow-duration="7s">
                     <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">My LinkedIn Profile</a>
                 </h5>

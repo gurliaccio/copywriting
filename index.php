@@ -122,7 +122,7 @@
 </div> -->
 
         <div class="row">
-            <div class="col-lg-1 col-centered">
+            <div class="col-lg-12 col-centered">
                 <h2 class="wow fadeInDown" data-wow-duration="2s">I'm a copywriter with many loves: technology, creative strategy, brand development, UX, travel, stand-up comedy, and writing. A lot of writing.</h2>
                 <br>
                 <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country.</p>

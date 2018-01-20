@@ -546,9 +546,10 @@
     </footer>
     <!-- FOOTER END -->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
+
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script> -->
+    <script src="js/jquery.min.js">
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>

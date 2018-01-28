@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/simple-line-icons.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Antic|Raleway:300">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Antic|Raleway:300">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

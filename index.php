@@ -293,11 +293,12 @@
                             <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
 
                             <img src="img/economics.jpg">
+                            <br>
                             <video width="98%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                             </video>
-
+                            <br>
                             <img src="img/aigbrick-1.jpg">
                             <img src="img/aigpipe-1.jpg">
                             <img src="img/aigsuperheroes-1.jpg">

@@ -242,22 +242,22 @@
                         <div class="modal-body">
                             <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
                         
-                        <video width="90%" controls>
+                        <video width="96%" controls>
                             <source src="f1.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <video width="90%" controls>
+                        <video width="96%" controls>
                             <source src="f2.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <video width="90%" controls>
+                        <video width="96%" controls>
                             <source src="f3.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <video width="90%" controls>
+                        <video width="96%" controls>
                             <source src="f4.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
@@ -293,7 +293,7 @@
                             <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
 
                             <img src="img/economics.jpg">
-                            <video width="480" height="360" controls poster="img/aigposter.gif">
+                            <video width="96%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                             </video>

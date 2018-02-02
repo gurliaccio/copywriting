@@ -241,29 +241,23 @@
                         </div>
                         <div class="modal-body">
                             <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
-
-                        <!-- <iframe width="560" height="360" src="https://www.youtube.com/embed/eEczie1EEcA?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
                         
-                        <video width="560" height="360" controls>
+                        <video width="90%" controls>
                             <source src="f1.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <!-- <iframe width="560" height="360" src="https://www.youtube.com/embed/mHw9uxXPEU8?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
-                        <video width="560" height="360" controls>
+                        <video width="90%" controls>
                             <source src="f2.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <!-- <iframe width="560" height="360" src="https://www.youtube.com/embed/pCmSMzS09c0?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
-
-                        <video width="560" height="360" controls>
+                        <video width="90%" controls>
                             <source src="f3.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
-                        <!-- <iframe width="560" height="360" src="https://www.youtube.com/embed/iliTISEQtHE?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe> -->
-                        <video width="560" height="360" controls>
+                        <video width="90%" controls>
                             <source src="f4.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>

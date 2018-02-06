@@ -134,10 +134,14 @@
                 </div> -->
 
                 <!-- ABOUT INFO END -->
-
+                <br>
                 <!-- <div class="myapps row"> -->
+                
                 <h5 class="wow animated bounceInUp" data-wow-duration="7s">
                     <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">My LinkedIn Profile</a>
+
+                    <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="btn btn-info btn-lg wow animated bounceInUp" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
                 </h5>
 
                 <!-- <ul>
@@ -445,6 +449,10 @@
             <!-- <hr class="separetor"> -->
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->
+
+        <!-- <a class="twitter-timeline" href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw">Tweets by atlcopywriter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+        <!-- <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
         <!-- TESTIMONIAL ITEMS START -->
         <!-- <div class="row">

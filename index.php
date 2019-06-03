@@ -138,9 +138,9 @@
                 <!-- <div class="myapps row"> -->
                 
                 <h5 class="wow animated bounceInUp" data-wow-duration="7s">
-                    <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">My LinkedIn Profile</a>
+                    <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Me on LinkedIn</a>
 
-                    <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="btn btn-info btn-lg wow animated bounceInUp" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <!-- <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="btn btn-info btn-lg wow animated bounceInUp" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
                 </h5>
 

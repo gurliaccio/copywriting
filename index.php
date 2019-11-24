@@ -8,7 +8,7 @@
     <meta name="description" content="Michael Gurliaccio is a senior copywriter, brand strategist, content manager, tech nerd">
     <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content">
     <meta name="author" content="Michael Gurliaccio">
-    <title>COPYWRITER</title>
+    <title>COPY|UX Writer</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">
     <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-iphone-retina.png" />

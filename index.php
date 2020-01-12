@@ -530,7 +530,7 @@
                     <li><a href="#hero">Back To Top</a></li>
                     <li><a href="#about">About Me</a></li>
                     <li><a href="#services">Selected Work</a></li>
-                    <li><a href="mailto:you@yourmail.com">Email</a></li>
+                    <li><a href="mailto:gurliaccio@gmail.com">Email</a></li>
                     <li><a href="MichaelGurliaccioResume.pdf">My Resume</a></li>
                     
                     <!-- <li><a href="#testimonials">Testimonials</a></li> -->

@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content creator, tech nerd">
-    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX">
-    <meta name="author" content="Michael Gurliaccio">
+    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, artificial intelligence, blockchain">
+    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Branding">
+    <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">
     <link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-ipad-retina.png" />
@@ -41,8 +41,8 @@
         =========================== -->
         <div id="hero">
             <div class="container herocontent">
-                <h2 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h2>
-                <h4 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h4>
+                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3>
+                <h2 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h2>
             </div>
 
             <!-- Featured image on the Hero area -->

@@ -46,7 +46,7 @@
             </div>
 
             <!-- Featured image on the Hero area -->
-            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
+            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/1.svg" alt="Featured Work">
             <!-- <h3 class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3> -->
         </div>
         <!--HERO AREA END-->

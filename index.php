@@ -46,8 +46,8 @@
             </div>
 
             <!-- Featured image on the Hero area -->
-            <!-- <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work"> -->
-            <h3 class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3>
+            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
+            <!-- <h3 class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3> -->
         </div>
         <!--HERO AREA END-->
 
@@ -124,9 +124,9 @@
 
         <div class="row">
             <div class="col-lg-12 col-centered">
-                <h3 class="wow fadeInDown" data-wow-duration="2s">I like talking about technology, content strategy, brand development, UX writing, stand-up comedy, my drum set, Sardegna, exotic food...</h3>
+                <h3 class="wow fadeInDown" data-wow-duration="2s">I'm here to help.</h3>
                 <br>
-                <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas, compelling copy, and engaging content for ad agencies and in-house marketing teams across the country.</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Let's talk about blockchain and AI, or the future of healthcare, stand-up comedy, my drum set, the unreal island of Sardegna, exotic food from anywhere...</p>
 
                 <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
 

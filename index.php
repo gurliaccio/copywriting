@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content creator, tech nerd">
-    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content UX">
+    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX">
     <meta name="author" content="Michael Gurliaccio">
     <title>UX | Copy | Writer</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">
@@ -41,13 +41,13 @@
         =========================== -->
         <div id="hero">
             <div class="container herocontent">
-                <h2 class="wow fadeInUp" data-wow-duration="2s">Welcome</h2>
-                <h4 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael, and I like talking to strangers.</h4>
+                <h2 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h2>
+                <h4 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h4>
             </div>
 
             <!-- Featured image on the Hero area -->
-            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
-             
+            <!-- <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work"> -->
+            <h3 class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3>
         </div>
         <!--HERO AREA END-->
 

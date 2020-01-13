@@ -45,9 +45,9 @@
                 <h4 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael, and I like talking to strangers.</h4>
             </div>
 
-            <!-- Featured image on the Hero area
+            <!-- Featured image on the Hero area -->
             <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
-             -->
+             
         </div>
         <!--HERO AREA END-->
 

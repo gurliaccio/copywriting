@@ -126,7 +126,7 @@
             <div class="col-lg-12 col-centered">
                 <h3 class="wow fadeInDown" data-wow-duration="2s">I'm here to help.</h3>
                 <br>
-                <p class="wow fadeInDown" data-wow-duration="3s">Let's talk about blockchain and AI, or the future of healthcare, stand-up comedy, my drum set, the unreal island of Sardegna, exotic food from anywhere...</p>
+                <p class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and exotic food from anywhere...</p>
 
                 <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
 

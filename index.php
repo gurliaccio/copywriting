@@ -54,8 +54,10 @@
             
             
             <!-- Featured image on the Hero area -->
-            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
-            <h3 style="color:#f5f5f5" class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3>
+            <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
+            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
+            <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
+            <h3 style="color:#f5f5f5" class="heroshot wow bounceInUp" data-wow-duration="6s">I'm here to help!</h3>
         </div>
         <!--HERO AREA END-->
 

@@ -42,22 +42,16 @@
         <div id="hero">
             
             <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-
-           
             
             <div class="container herocontent">
-                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3>
-                <h2 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h2>
+                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3><h3 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h3>
             </div>
 
-           
-            
-            
             <!-- Featured image on the Hero area -->
             <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
             <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
             <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
-            <h3 style="color:#f5f5f5" class="heroshot wow bounceInUp" data-wow-duration="6s">I'm here to help!</h3>
+
         </div>
         <!--HERO AREA END-->
 
@@ -88,7 +82,8 @@
                         <!-- <li><a href="#portfolio"><span class="btnicon icon-rocket"></span>Portfolio</a></li> -->
                         <!-- <li><a href="#testimonials"><span class="btnicon icon-bubble"></span>Testimonials</a></li> -->
                         <li><a href="mailto:gurliaccio@gmail.com"><span class="btnicon icon-envelope-open"></span>Email</a></li>
-                        <li><a href="MichaelGurliaccioResume.pdf"><span class="btnicon icon-cloud-download"></span>My Resume</a></li>
+                        <li><a href="
+                            GurliaccioResume.pdf"><span class="btnicon icon-cloud-download"></span>My Resume</a></li>
                     </ul>
                 </div>
                 <!--.nav-collapse -->
@@ -137,12 +132,6 @@
                 <h3 class="wow fadeInDown" data-wow-duration="2s">I'm here to help.</h3>
                 <br>
                 <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and exotic food from anywhere...</p>
-
-                <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
-
-                <!-- <p class="wow fadeInDown" data-wow-duration="5s">The ever-changing challenges of the job are exhilarating, and I look forward to sharing my sometimes embarrassing enthusiasm with your team.</p> -->
-                <!--     </div>
-                </div> -->
 
                 <!-- ABOUT INFO END -->
                 <br>

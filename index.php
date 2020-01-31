@@ -52,7 +52,7 @@
 
             <!-- Featured image on the Hero area -->
             <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/hero-img (2).png" alt="Featured Work">
-            <h3 class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3>
+            <h3 style="color:#f5f5f5" class="heroshot wow bounceInUp" data-wow-duration="4s">I'm here to help!</h3>
         </div>
         <!--HERO AREA END-->
 
@@ -131,7 +131,7 @@
             <div class="col-lg-12 col-centered">
                 <h3 class="wow fadeInDown" data-wow-duration="2s">I'm here to help.</h3>
                 <br>
-                <p class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and exotic food from anywhere...</p>
+                <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and exotic food from anywhere...</p>
 
                 <!-- <p class="wow fadeInDown" data-wow-duration="3s">I’ve crafted original ideas and compelling copy for ad agencies and in-house marketing teams across the country. I don't think there's ever been a more interesting time to be a copywriter, and I'm very excited about the future of communications.</p> -->
 
@@ -178,7 +178,7 @@
     <div id="services" class="container">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
-            <h3>Samples of My Work</h3>
+            <h3 style="color:#f5f5f5" >Samples of My Work</h3>
         </div>
         
         

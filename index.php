@@ -44,13 +44,8 @@
             <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
             
             <div class="container herocontent">
-                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3><h3 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h3>
+                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3><h3 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael. <span style="color:white"> I'm here to help.</span>
             </div>
-
-            <!-- Featured image on the Hero area -->
-            <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
-            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
-            <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
 
         </div>
         <!--HERO AREA END-->
@@ -129,10 +124,15 @@
 
         <div class="row">
             <div class="col-lg-12 col-centered">
-                <h3 class="wow fadeInDown" data-wow-duration="2s">I'm here to help.</h3>
+
                 <br>
                 <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and exotic food from anywhere...</p>
-
+                
+                <!-- Featured image on the Hero area -->
+            <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
+            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
+            <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
+                
                 <!-- ABOUT INFO END -->
                 <br>
                 <!-- <div class="myapps row"> -->

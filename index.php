@@ -61,15 +61,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="la.jpg" alt="Los Angeles">
+      <img src="AI.jpg" alt="Anthem AI Website Screenshot">
     </div>
 
     <div class="item">
-      <img src="chicago.jpg" alt="Chicago">
+      <img src="motif.jpg" alt="Anthem Motif Design System Screenshot">
     </div>
 
     <div class="item">
-      <img src="ny.jpg" alt="New York">
+      <img src="ds.jpg" alt="Anthem Digital Solutions Website Screenshot">
     </div>
   </div>
 

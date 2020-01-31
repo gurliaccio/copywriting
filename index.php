@@ -40,6 +40,17 @@
         HERO AREA
         =========================== -->
         <div id="hero">
+            
+            <video autoplay muted loop id="myVideo"><source src="1.mp4" type="video/mp4"></video>
+
+            <!-- Optional: some overlay text to describe the video -->
+            <div class="content">
+              <h1>Heading</h1>
+          <p>Lorem ipsum...</p>
+          <!-- Use a button to pause/play the video with JavaScript -->
+          <button id="myBtn" onclick="myFunction()">Pause</button>
+        </div>
+            
             <div class="container herocontent">
                 <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3>
                 <h2 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael.</h2>

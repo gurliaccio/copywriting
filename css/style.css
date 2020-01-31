@@ -75,7 +75,7 @@ HERO AREA
     color: #fff;
     text-align: center;
     /* background: url(../img/1.svg)no-repeat; my old red blue background image*/
-	    background: url(../img/1g.mov); /*my background video loop*/
+	    background: url(../img/1.mp4); /*my background video loop*/
     background-size: cover;
     max-height: 880px;
     overflow: hidden;

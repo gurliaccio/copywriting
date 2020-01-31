@@ -61,15 +61,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="AI.jpg" alt="Anthem AI Website Screenshot">
+      <img src="img/AI.jpg" alt="Anthem AI Website Screenshot">
     </div>
 
     <div class="item">
-      <img src="motif.jpg" alt="Anthem Motif Design System Screenshot">
+      <img src="img/motif.jpg" alt="Anthem Motif Design System Screenshot">
     </div>
 
     <div class="item">
-      <img src="ds.jpg" alt="Anthem Digital Solutions Website Screenshot">
+      <img src="img/ds.jpg" alt="Anthem Digital Solutions Website Screenshot">
     </div>
   </div>
 

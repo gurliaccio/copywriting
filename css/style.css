@@ -89,9 +89,7 @@ HERO AREA
   min-height: 100%;
 }
 
-.container {
-  background-color: rgba(0, 0, 0, 0.3);
-}
+
 
 .herocontent{
     padding-top: 100px;
@@ -133,7 +131,7 @@ CLIENTS SECTION
 /*================================
 ABOUT SECTION
 ================================*/
-#about{padding-top: 100px; background-color: rgba(0, 0, 0, 0.3);}
+#about{padding-top: 100px;}
 
 .myapps{margin-top: 25px;}
 .myapps li{display: inline}

@@ -88,6 +88,10 @@ HERO AREA
   min-height: 100%;
 }
 
+#container {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
 .herocontent{
     padding-top: 100px;
     width: 100%;

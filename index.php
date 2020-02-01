@@ -33,7 +33,7 @@
     <!--Replace this line with your analytics code-->
 </head>
 
-<body data-spy="scroll" style="background-color: rgba(0,0,0,0.5)">
+<body data-spy="scroll" style="background-color: coral">
 
     <header>
         <!-- ===========================

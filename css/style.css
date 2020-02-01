@@ -132,7 +132,7 @@ CLIENTS SECTION
 /*================================
 ABOUT SECTION
 ================================*/
-#about{padding-top: 100px;}
+#about{padding-top: 100px; background-color: rgba(0, 0, 0, 0.3);}
 
 .myapps{margin-top: 25px;}
 .myapps li{display: inline}
@@ -193,7 +193,7 @@ FOOTER SECTION
 footer{
     text-align: center;
     padding: 50px 0;
-    background: #363942;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 footer p, footer .bigicon {color: #7e7e7e;}

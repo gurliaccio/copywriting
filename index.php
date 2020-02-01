@@ -33,8 +33,8 @@
     <!--Replace this line with your analytics code-->
 </head>
 
-<body data-spy="scroll" style="background-color: coral">
-
+<body data-spy="scroll">
+  <div style="background-color: rgba(0, 0, 0, 0.1)">
     <header>
         <!-- ===========================
         HERO AREA
@@ -564,7 +564,7 @@
             alert("my work...");
         }
     </script>
-
+      </div>
 </body>
 
 </html>

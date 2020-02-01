@@ -77,8 +77,7 @@
                         <!-- <li><a href="#portfolio"><span class="btnicon icon-rocket"></span>Portfolio</a></li> -->
                         <!-- <li><a href="#testimonials"><span class="btnicon icon-bubble"></span>Testimonials</a></li> -->
                         <li><a href="mailto:gurliaccio@gmail.com"><span class="btnicon icon-envelope-open"></span>Email</a></li>
-                        <li><a href="
-                            GurliaccioResume.pdf"><span class="btnicon icon-cloud-download"></span>My Resume</a></li>
+                        <li><a href="MichaelGurliaccioResume.pdf"><span class="btnicon icon-cloud-download"></span>My Resume</a></li>
                     </ul>
                 </div>
                 <!--.nav-collapse -->

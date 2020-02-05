@@ -125,7 +125,7 @@
             <div class="col-lg-12 col-centered">
 
                 <br>
-                <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s"> Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+                <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">&nbsp;Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of &nbsp;Sardinia, and all the exotic food on Buford Highway.</p>
                 
                 <!-- Featured image on the Hero area -->
 

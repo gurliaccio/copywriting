@@ -327,7 +327,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
                 <h4>AIG</h4>
-                <p>I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal speeches for several executives, I created copy for intranet website pages, print and email campaigns, event collateral, and video presentations.</p>
+                <p>I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->

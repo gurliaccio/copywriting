@@ -125,8 +125,8 @@
             <div class="col-lg-12 col-centered">
 
                 <br>
-                <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-                <h3 style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</h3>                
+                <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+                <h3 style="text-align: center; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">A Glimpse of Recent Work</h3>                
                 <!--  <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p> -->               
                 <!-- Featured image on the Hero area -->
 

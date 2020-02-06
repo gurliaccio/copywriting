@@ -176,8 +176,8 @@
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <img src="img/s2.png" alt="">
-                <h4 class="red">Microsoft</h4>
-                <p class="red">JWT Seattle was hired to create a web portal, print, and collateral to help our client attract top developer talent. We collaborated with nine separate business units to offer a glimpse into life at Microsoft and later were asked by the User Research and Mobile App divisions to create a website, display ads, and print.</p>
+                <h4 class="red">Anthem, Inc.</h4>
+                <p class="red">This is placeholder copy for now...</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -186,7 +186,7 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Microsoft</h4>
+                            <h4 class="modal-title">Anthem, Inc.</h4>
                         </div>
                         <br>
                         <div class="modal-body">
@@ -392,37 +392,7 @@
                 </div>
             </div>
             <!-- Modal End-->
-            <!-- Modal Start-->
-        <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">
-                <img src="img/s5.png" alt="">
-                <h4>Anthem, Inc.</h4>
-                <p>Placeholder copy for now...</p>
-            </div>
-            <!-- ITEM END -->
 
-            <!-- Modal -->
-            <div class="modal fade" id="myModal5" role="dialog">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Anthem, Inc.</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>Placeholder copy for now...</p>
-
-                            <img src="img/wnyc.jpg">
-                            <img src="img/wmiami.jpg">
-                            <img src="img/wla.jpg">
-
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal End-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <img src="img/s6.png" alt="">
                 <h4>Sur La Table</h4>

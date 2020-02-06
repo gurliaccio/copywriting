@@ -85,35 +85,13 @@
         </nav>
         <!--navbar end-->
     </header>
-    <!--header end-->
-
-    <!-- ===========================
-    FEATURED CLIENTS SECTION
-    =========================== -->
-    <!-- <div id="clients">
-        <div class="container">
-            <div class="col-md-2">
-                <h4>Clients Include:</h4>
-            </div>
-            <div class="col-md-10">
-                <ul> -->
-                    <!--CLIENTS LOGO-->
-                <!--     <li><img src="img/MSFT.png" alt="Microsoft" style="height:80px"></li>
-                    <li><img src="img/oracle.png" alt="Oracle" style="height:80px"></li>
-                    <li><img src="img/ford.png" alt="Ford" style="height:80px"></li>
-                    <li><img src="img/aig.png" alt="AIG" style="height:80px"></li>
-                </ul> -->
-                <!--CLIENTS LOGO END-->
-    <!--         </div>
-        </div>
-    </div> -->
-    <!--FEATURED CLIENTS SECTION END-->
-
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-    <div id="services" class="container">
-        <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+    <p style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+        
+       <div id="services" class="container">
+        
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
             <h3 style="color:#f5f5f5" >Samples of My Work</h3>

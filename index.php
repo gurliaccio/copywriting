@@ -176,6 +176,37 @@
         
 
         <!-- SERVICE ITEMS START -->
+        <!-- Modal Start-->
+        <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">
+                <img src="img/s5.png" alt="">
+                <h4>Anthem, Inc.</h4>
+                <p>Placeholder copy for now...</p>
+            </div>
+            <!-- ITEM END -->
+            
+            <!-- Modal -->
+            <div class="modal fade" id="myModal5" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Anthem, Inc.</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Placeholder copy for now...</p>
+                        
+                            <img src="img/wnyc.jpg">
+                            <img src="img/wmiami.jpg">
+                            <img src="img/wla.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal End-->
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <img src="img/s2.png" alt="">
@@ -227,55 +258,7 @@
             </div>
             <!-- Modal End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
-                <img src="img/s1.png" alt="">
-                <h4>Ford</h4>
-                <p>If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
-            </div>
-            <!-- ITEM END -->
-            <!-- Modal -->
-            <div class="modal fade" id="myModal2" role="dialog">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Ford</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
-                        
-                        <video width="98%" controls>
-                            <source src="f1.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="f2.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="f3.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="f4.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <img src="img/f1.jpg">
-                        <img src="img/f2.jpg" style="width:100%">
-                        <img src="img/f3.jpg">
-                            
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal End-->
+            
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
@@ -345,27 +328,47 @@
                 </div>
             </div>
             <!-- Modal End-->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">
-                <img src="img/s5.png" alt="">
-                <h4>Anthem, Inc.</h4>
-                <p>Placeholder copy for now...</p>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
+                <img src="img/s1.png" alt="">
+                <h4>Ford</h4>
+                <p>If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
-            <div class="modal fade" id="myModal5" role="dialog">
+            <div class="modal fade" id="myModal2" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Anthem, Inc.</h4>
+                            <h4 class="modal-title">Ford</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Placeholder copy for now...</p>
+                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
                         
-                            <img src="img/wnyc.jpg">
-                            <img src="img/wmiami.jpg">
-                            <img src="img/wla.jpg">
+                        <video width="98%" controls>
+                            <source src="f1.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
 
+                        <video width="98%" controls>
+                            <source src="f2.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="f3.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="f4.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <img src="img/f1.jpg">
+                        <img src="img/f2.jpg" style="width:100%">
+                        <img src="img/f3.jpg">
+                            
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -374,6 +377,9 @@
                 </div>
             </div>
             <!-- Modal End-->
+
+            
+            
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <img src="img/s6.png" alt="">
                 <h4>Sur La Table</h4>

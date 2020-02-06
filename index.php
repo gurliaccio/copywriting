@@ -364,7 +364,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <img src="img/s4.png" alt="">
                 <h4>Oracle</h4>
-                <p>I was senior writer on the Verizon Wireless and Extra Storage Space creative teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we created public-facing websites and several email campaigns that drove people them.</p>
+                <p>I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -396,7 +396,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <img src="img/s6.png" alt="">
                 <h4>Sur La Table</h4>
-                <p>I wrote informative, conversational copy for pretty much all the products on the e-commerce site. I was also in charge of all the copy for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, and writing copy for new cooking classes and the school's monthly newsletter.</p>
+                <p>I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
             </div>
             <!-- ITEM END -->
                         <!-- Modal -->

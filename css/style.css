@@ -85,7 +85,7 @@ HERO AREA
     overflow: hidden;
 }
 #myVideo {
-  position: fixed;
+  position: absolute;
   right: 0;
   bottom: 0;
   min-width: 100%;

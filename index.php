@@ -175,7 +175,7 @@
         <!-- SERVICE ITEMS START -->
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-                <img src="img/s2.png" alt="">
+                <img src="img/s5.png" alt="">
                 <h4 class="red">Anthem, Inc.</h4>
                 <p class="red">This is placeholder copy for now...</p>
             </div>

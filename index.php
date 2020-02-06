@@ -126,7 +126,8 @@
 
                 <br>
                 <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Current fascinations include AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-                <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p>                
+                <h3 style="color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</h3>                
+                <!--  <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p> -->               
                 <!-- Featured image on the Hero area -->
 
             <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
@@ -416,7 +417,10 @@
   <!--   <div id="portfolio">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
             <span class="bigicon icon-rocket"></span>
-            <h3>A few recent works</h3>
+            
+
+
+A few recent works</h3>
             <hr class="separetor">
         </div>
         

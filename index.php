@@ -40,9 +40,9 @@
         HERO AREA
         =========================== -->
         <div id="hero">
-            
+
             <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-            
+
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h1><h1 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael. <span style="color:white"> I'm here to help.</span>
             </div>
@@ -126,14 +126,14 @@
 
                 <br>
                 <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-                <h3 style="text-align: center; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">A Glimpse of Recent Work</h3>                
-                <!--  <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p> -->               
+                <h3 style="text-align: center; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">A Glimpse of Recent Work</h3>
+                <!--  <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p> -->
                 <!-- Featured image on the Hero area -->
 
             <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
             <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
             <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
-                
+
                 <!-- ABOUT INFO END -->
                 <br>
                 <!-- <div class="myapps row"> -->
@@ -143,14 +143,14 @@
                 </h5>
 
                 <!-- <ul>
-                
+
                     <li><img class="wow animated bounceInUp" data-wow-duration="1s" src="img/photoshop.svg" alt="Photoshop"></li>
                     <li><img class="wow bounceInUp" data-wow-duration="2s" src="img/illustrator.svg" alt="Illustrator"></li>
                     <li><img class="wow bounceInUp" data-wow-duration="3s" src="img/flash.svg" alt="Adobe Flash"></li>
                     <li><img class="wow animated bounceInUp" data-wow-duration="4s" src="img/after_effects.svg" alt="After Effects"></li>
                     <li><img class="wow bounceInUp" data-wow-duration="5s" src="img/indesign.svg" alt="InDesign"></li>
                 </ul> -->
-                
+
             </div>
         </div>
         <!-- LEFT PART OF THE ABOUT SECTION END -->
@@ -172,9 +172,6 @@
             <span class="bigicon icon-cup "></span>
             <h3 style="color:#f5f5f5" >Samples of My Work</h3>
         </div>
-        
-        
-
         <!-- SERVICE ITEMS START -->
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
@@ -226,7 +223,56 @@
                 </div>
             </div>
             <!-- Modal End-->
-            
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
+                <img src="img/s2.png" alt="">
+                <h4 class="red">Microsoft</h4>
+                <p class="red">JWT Seattle was hired to create a web portal, print, and collateral to help our client attract top developer talent. We collaborated with nine separate business units to offer a glimpse into life at Microsoft and later were asked by the User Research and Mobile App divisions to create a website, display ads, and print.</p>
+            </div>
+            <!-- ITEM END -->
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Microsoft</h4>
+                        </div>
+                        <br>
+                        <div class="modal-body">
+                            <h4 class="modal-title">Nine Different Divisions, Nine Websites and Several Display Ads</h4>
+                            <p>Our first website for Microsoft was such a hit, that eight other business groups clamored for their own. I interviewed key team members, and then created profiles that included hobbies, favorite bands, most memorable MSFT moment, and more, to give the world a taste of what it is like to work for this groundbreaking company.</p>
+
+                            <img src="img/vmw2.jpg">
+                            <br><br>
+                            <h4 class="modal-title">Mobile Division Website, Event Collateral, and Print</h4>
+                            <p>When Microsoft’s mobile division moved into South Lake Union, they called on us to create a website, print ads, billboards, and more.
+                            </p>
+                            <p>I also recommended they get involved in Mind Camp. For the 24-hour, weekend-long event we created custom energy drink labels (“No Rest for the Wicked Smart”), t-shirts and a way for Microsoft to capture interested attendees’ information by means of a printed Compatibility Test with tear-away contact information.</p>
+                            <br>
+                            <img src="img/msftslucomh1.jpg">
+                            <img src="img/s1.jpg">
+                            <img src="img/s2.jpg" style="width:100%">
+                            <img src="img/drinksncards.jpg">
+                            <img src="img/s4.jpg">
+                            <img src="img/s5.jpg">
+                            <br><br>
+                            <h4 class="modal-title">User Research Division Website, Display Ads, and Magazine Ads</h4>
+                            <p>The print campaign and display ads we developed led anyone interested in taking part in a Microsoft study to a website we created with details about the program, and a way to apply.</p>
+                            <br>
+                            <img src="img/msftur.jpg">
+                            <img src="img/msfthereditary.jpg">
+                            <img src="img/msftjustagame.jpg">
+                            <img src="img/msftthumb.jpg">
+                            <img src="img/msftagree.jpg">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal End-->
+
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <img src="img/s1.png" alt="">
                 <h4>Ford</h4>
@@ -243,7 +289,7 @@
                         </div>
                         <div class="modal-body">
                             <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
-                        
+
                         <video width="98%" controls>
                             <source src="f1.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
@@ -267,7 +313,7 @@
                         <img src="img/f1.jpg">
                         <img src="img/f2.jpg" style="width:100%">
                         <img src="img/f3.jpg">
-                            
+
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -276,7 +322,7 @@
                 </div>
             </div>
             <!-- Modal End-->
-            
+
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
@@ -353,7 +399,7 @@
                 <p>Placeholder copy for now...</p>
             </div>
             <!-- ITEM END -->
-            
+
             <!-- Modal -->
             <div class="modal fade" id="myModal5" role="dialog">
                 <div class="modal-dialog">
@@ -364,7 +410,7 @@
                         </div>
                         <div class="modal-body">
                             <p>Placeholder copy for now...</p>
-                        
+
                             <img src="img/wnyc.jpg">
                             <img src="img/wmiami.jpg">
                             <img src="img/wla.jpg">
@@ -420,19 +466,19 @@
   <!--   <div id="portfolio">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
             <span class="bigicon icon-rocket"></span>
-            
+
 
 
 A few recent works</h3>
             <hr class="separetor">
         </div>
-        
+
         <div class="portfolioitems container">
             <div class="row">
                 <ul class="shots"></ul>
             </div>
         </div>
-        
+
         <a class="btn btn-default wow fadeInUp" href="http://dribbble.com/srizon" role="button">
             <span class="btnicon icon-social-dribbble"></span>
             <span class="button_text">View all items</span>
@@ -451,7 +497,7 @@ A few recent works</h3>
                 <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Let's Talk</a>
             <h4>I'm currently available for freelance and full-time assignments.<br>
                 Drop me a line or give me a call anytime.<br>
-                (404) 457-1496</h4> 
+                (404) 457-1496</h4>
             <!-- <hr class="separetor"> -->
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->
@@ -462,7 +508,7 @@ A few recent works</h3>
 
         <!-- TESTIMONIAL ITEMS START -->
         <!-- <div class="row">
-            
+
             <div class="col-md-6 wow bounceIn" data-wow-duration="2s">
                 <div class="clientsphoto">
                     <img src="img/dan.jpg" alt="Dan">
@@ -476,7 +522,7 @@ A few recent works</h3>
                     <p>Co-Founder, Dribbble</p>
                 </div>
             </div>
-            
+
             <div class="col-md-6 wow bounceIn" data-wow-duration="3s">
                 <div class="clientsphoto">
                     <img src="img/bill.jpg" alt="Bill">
@@ -490,7 +536,7 @@ A few recent works</h3>
                     <p>Art Director at Focus Lab LLC.</p>
                 </div>
             </div>
-            
+
             <div class="col-md-6 wow bounceIn" data-wow-duration="3s">
                 <div class="clientsphoto">
                     <img src="img/eric.png" alt="Eric">
@@ -504,7 +550,7 @@ A few recent works</h3>
                     <p>Principal Designer, JellyJar</p>
                 </div>
             </div>
-            
+
             <div class="col-md-6 wow bounceIn" data-wow-duration="2s">
                 <div class="clientsphoto">
                     <img src="img/ramil.jpg" alt="Ramil">
@@ -518,7 +564,7 @@ A few recent works</h3>
                     <p>Visual Designer, Bluroon</p>
                 </div>
             </div>
-            
+
         </div> -->
     </div>
     <!-- TESTIMONIAL SECTION END -->
@@ -538,22 +584,22 @@ A few recent works</h3>
                     <li><a href="#services">Selected Work</a></li>
                     <li><a href="mailto:gurliaccio@gmail.com">Email</a></li>
                     <li><a href="MichaelGurliaccioResume.pdf">My Resume</a></li>
-                    
+
                     <!-- <li><a href="#testimonials">Testimonials</a></li> -->
-                    
+
                 </ul>
             </div>
         </div>
     </footer>
     <!-- FOOTER END -->
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) 
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins)
         <script src="js/jquery.min.js">
     -->
 
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"
   integrity="sha256-VAvG3sHdS5LqTT+5A/aeq/bZGa/Uj04xKxY8KM/w9EE="
-  crossorigin="anonymous"></script> 
+  crossorigin="anonymous"></script>
 
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->

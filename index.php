@@ -444,11 +444,11 @@ A few recent works</h3>
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
             <span class="bigicon icon-bubbles"></span>
             <!--  <h3>Let's Talk</h3> -->
-             <h5 class="wow animated bounceInUp" data-wow-duration="7s">
+             <h5 class="wow animated bounceInUp" data-wow-duration="4s">
                 <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Let's Talk</a>
-            <h4>I'm currently available for freelance and full-time assignments.</h4>
-            <h4>Drop me a line or give me a call anytime.</h4> 
-            <h4>(404) 457-1496</h4> 
+            <h4>I'm currently available for freelance and full-time assignments.<br>
+                Drop me a line or give me a call anytime.<br>
+                (404) 457-1496</h4> 
             <!-- <hr class="separetor"> -->
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->

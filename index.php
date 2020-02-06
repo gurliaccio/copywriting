@@ -176,8 +176,8 @@
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <img src="img/s5.png" alt="">
-                <h4 class="red">Anthem, Inc.</h4>
-                <p class="red">This is placeholder copy for now...</p>
+                <h4 class="red">Anthem</h4>
+                <p class="red">I work on the UX team with designers, developers and product managers to build and maintain bleeding-edge solutions for our public and member digital properties.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -186,7 +186,7 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Anthem, Inc.</h4>
+                            <h4 class="modal-title">Anthem</h4>
                         </div>
                         <br>
                         <div class="modal-body">

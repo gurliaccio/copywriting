@@ -110,76 +110,11 @@
     <!--FEATURED CLIENTS SECTION END-->
 
     <!-- ===========================
-    ABOUT SECTION
-    =========================== -->
-    <div id="about" class="container">
-
-        <!-- LEFT PART OF THE ABOUT SECTION -->
-        <!-- <div class="col-md-10"> -->
-
-<!-- <div class="row">
-    <div class="col-lg-1 col-centered"></div>
-</div> -->
-
-        <div class="row">
-            <div class="col-lg-12 col-centered">
-
-                <br>
-                <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-                <h3 style="text-align: center; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">A Glimpse of Recent Work</h3>
-                <!--  <p style="padding: 5px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">Below is a glimpse of my most recent work for Anthem.</p> -->
-                <!-- Featured image on the Hero area -->
-
-            <img class="heroshot wow bounceInUp" data-wow-duration="4s" src="img/motif.jpg" alt="Featured Work">
-            <img class="heroshot wow bounceInUp" data-wow-duration="3s" src="img/AI.jpg" alt="Featured Work">
-            <img class="heroshot wow bounceInUp" data-wow-duration="5s" src="img/ds.jpg" alt="Featured Work">
-
-                <!-- ABOUT INFO END -->
-                <br>
-                <!-- <div class="myapps row"> -->
-
-                    <!-- <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="btn btn-info btn-lg wow animated bounceInUp" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
-                </h5>
-
-                <!-- <ul>
-
-                    <li><img class="wow animated bounceInUp" data-wow-duration="1s" src="img/photoshop.svg" alt="Photoshop"></li>
-                    <li><img class="wow bounceInUp" data-wow-duration="2s" src="img/illustrator.svg" alt="Illustrator"></li>
-                    <li><img class="wow bounceInUp" data-wow-duration="3s" src="img/flash.svg" alt="Adobe Flash"></li>
-                    <li><img class="wow animated bounceInUp" data-wow-duration="4s" src="img/after_effects.svg" alt="After Effects"></li>
-                    <li><img class="wow bounceInUp" data-wow-duration="5s" src="img/indesign.svg" alt="InDesign"></li>
-                </ul> -->
-
-            </div>
-        </div>
-        <!-- LEFT PART OF THE ABOUT SECTION END -->
-        <!--Left part end-->
-
-        <!-- RIGHT PART OF THE ABOUT SECTION -->
-        <!-- <div class="col-md-6 wow fadeInUp myphoto" data-wow-duration="6s">
-            <img src="img/sign.png" style="max-width: 60%;margin-top: 1%;margin-left: 30%;">
-        </div> -->
-        <!-- RIGHT PART OF THE ABOUT SECTION END -->
-    </div>
-    <!-- ABOUT SECTION END -->
-
-    <!-- ===========================
     SERVICE SECTION START
     =========================== -->
     <div id="services" class="container">
-         <!-- ===========================
-    ABOUT SECTION
-    =========================== -->
-    <div id="about" class="container">
 
-        <!-- LEFT PART OF THE ABOUT SECTION -->
-        <!-- <div class="col-md-10"> -->
-
-<!-- <div class="row">
-    <div class="col-lg-1 col-centered"></div>
-</div> -->
-
+    <!-- <div id="about" class="container"> -->
         <div class="row">
             <div class="col-lg-12 col-centered">
 

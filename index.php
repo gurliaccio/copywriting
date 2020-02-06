@@ -364,7 +364,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <img src="img/s4.png" alt="">
                 <h4>Oracle</h4>
-                <p>I worked in the Cloud Marketing group as a member of the Verizon Wireless and Extra Storage Space creative teams. To help launch our clients' newest products and services, as well as update their DIY How-To section, we created web pages that lived on both customer-facing websites and supported our new website work with email campaigns.</p>
+                <p>I was part of the Verizon and Extra Storage Space creative teams in the Cloud Marketing group. To support product and services launches, we created public-facing websites and email campaigns.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->

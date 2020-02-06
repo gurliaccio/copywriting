@@ -346,8 +346,8 @@
             <!-- Modal End-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">
                 <img src="img/s5.png" alt="">
-                <h4>W Hotels</h4>
-                <p>My art director and I created this print campaign for the iconic hotel group. W Hotels, like Ritz-Carlton, provide the same expected level of luxury in a variety of locales but for a very different clientele. We wanted to highlight the individuality of each location, while at the same time reassuring the reader of the uniquely universal W Hotel experience.</p>
+                <h4>Anthem, Inc.</h4>
+                <p>Placeholder copy for now...</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -356,10 +356,10 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">W Hotels</h4>
+                            <h4 class="modal-title">Anthem, Inc.</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Stylish, sexy, and fun for all ages. The W Hotels are more than just a room for the night. Each property proudly displays its unique charms, and the whole company is designed to feel more like a club than a hotel. Remember when traveling was fun? We do.</p>
+                            <p>Placeholder copy for now...</p>
                         
                             <img src="img/wnyc.jpg">
                             <img src="img/wmiami.jpg">

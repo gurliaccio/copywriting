@@ -177,7 +177,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <img src="img/s5.png" alt="">
                 <h4 class="red">Anthem</h4>
-                <p class="red">I work on the UX team with designers, developers and product managers to build and maintain bleeding-edge solutions for our public and member digital properties.</p>
+                <p class="red">Giant healthcare insurers are rarely known for being tech innovators, so I was hired to help change all that. Today, I work on the UX team with digital designers, developers, and product managers to build and maintain bleeding-edge solutions for our public and member digital properties.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->

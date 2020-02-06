@@ -44,7 +44,7 @@
             <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
             
             <div class="container herocontent">
-                <h3 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h3><h3 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael. <span style="color:white"> I'm here to help.</span>
+                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h1><h1 class="wow fadeInDown" data-wow-duration="3s" style="color:black">I'm Michael. <span style="color:white"> I'm here to help.</span>
             </div>
 
         </div>

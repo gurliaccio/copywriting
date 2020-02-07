@@ -20,7 +20,7 @@ h2{font-size: 42px;color: #FFFFFF;}
 h3{font-size: 28px;color: #FFFFFF;}
 h4{background-color: rgba(0, 0, 0, 0.3);font-size: 18px; line-height: 1.4em;color: #FFFFFF;}
 p{
-    
+    padding:20px;
     letter-spacing: 1px;
     color: #FFFFFF;
     font-weight: lighter;

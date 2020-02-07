@@ -88,13 +88,16 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-    <p style="margin:100px; padding:10px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+
+       <div class="container">
+           <p style="margin:100px; padding:20px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+        </div>        
         <br><br>
        <div id="services" class="container">
         
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
-            <h3 style="color:#f5f5f5" >Samples of My Work</h3>
+            <h3 style="margin-top: 50px;color:#f5f5f5" >Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

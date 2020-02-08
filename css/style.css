@@ -5,6 +5,162 @@
     list-style: none;
 }
 
+a{
+  position: relative;
+  text-decoration: none;
+  display: inline-block;
+}
+a:before{
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 0;
+  height: 0;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+a:hover:before{
+  animation: animate 1s linear forwards;
+}
+@keyframes animate{
+  0%{
+    width: 0;
+    height: 0;
+    border-top-color: #262626;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+  }
+  50%{
+    width: 100%;
+    height: 0;
+    border-top-color: #262626;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-right-color: #262626;
+  }
+  100%{
+    width: 100%;
+    height: 100%;
+    border-top-color: #262626;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-right-color: #262626;
+  }
+}
+
+a:after{
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 0;
+  height: 0;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 10px;
+}
+a:hover:after{
+  animation: animate2 1s linear forwards;
+  animation-delay: 1s;
+}
+@keyframes animate2{
+  0%{
+    width: 0;
+    height: 0;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: #262626;
+    border-right-color: transparent;
+  }
+  50%{
+    width: 0;
+    height: 100%;
+    border-top-color: transparent;
+    border-bottom-color: #262626;
+    border-left-color: #262626;
+    border-right-color: transparent;
+  }
+  100%{
+    width: 100%;
+    height: 100%;
+    border-top-color: transparent;
+    border-bottom-color: #262626;
+    border-left-color: #262626;
+    border-right-color: transparent;
+  }
+}
+
+
+
+@-moz-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  40% {
+    -moz-transform: translateY(-30px);
+    -ms-transform: translateY(-30px);
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px);
+  }
+  60% {
+    -moz-transform: translateY(-15px);
+    -ms-transform: translateY(-15px);
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px);
+  }
+}
+
+.arrow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  margin-left: -20px;
+  width: 40px;
+  height: 60px; /*change with size of arrow to make sit on bottom */
+/*   background-image: url(); */
+/*   background-size: contain; */
+}
+
+.bounce {
+  -moz-animation: bounce 2s infinite;
+  -webkit-animation: bounce 2s infinite;
+  animation: bounce 2s infinite;
+}
+
 /*================================
 TYPOGRAPHY
 ================================*/
@@ -67,36 +223,20 @@ TYPOGRAPHY
     transform: translateY(-15px);
   }
 }
-/* Demo Purpose Only*/
-.demo {
-  font-family: 'Raleway', sans-serif;
-	color:#fff;
-    display: block;
-    margin: 0 auto;
-    padding: 15px 0;
-    text-align: center;
-}
-.demo a{
-  font-family: 'Raleway', sans-serif;
-color: #2ecc71;		
-}
-
-
-
-
 
 .bigicon {font-size: 3em;}
 
-h1{font-size: 66px;color: #000000;}
-h2{font-size: 42px;color: #000000;}
-h3{font-size: 28px;color: #000000;}
-h4{font-size: 18px; line-height: 1.4em;color: #000000;}
+h1{font-family: 'Raleway', sans-serif;font-size: 66px;color: #000000;}
+h2{font-family: 'Raleway', sans-serif;font-size: 42px;color: #000000;}
+h3{font-family: 'Raleway', sans-serif;font-size: 28px;color: #000000;}
+h4{font-family: 'Raleway', sans-serif;font-size: 18px; line-height: 1.4em;color: #000000;}
 p{
     margin: 10px;
     letter-spacing: 1px;
     color: #000000;
     font-weight: normal;
     font-size: 1em;
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -177,7 +317,7 @@ HERO AREA
 .heroshot{
     margin-top: 20px;
     width: 30%;
-    
+
 }
 
 /*================================
@@ -229,7 +369,7 @@ PORTFOLIO SECTION
 
 
 
-#portfolio img{    
+#portfolio img{
     border: 5px solid #fff;
 }
 
@@ -254,7 +394,7 @@ blockquote{
     border: none;
 }
 
-blockquote p{   
+blockquote p{
     font-style: italic;
     font-size: 14px;
 }
@@ -332,7 +472,7 @@ FOLLOW BUTTON
     color: #333;
 }
 
-.dribbble-follow-button .label:active {            
+.dribbble-follow-button .label:active {
      box-shadow: 0 1px 5px rgba(0,0,0,.15) inset;
 }
 

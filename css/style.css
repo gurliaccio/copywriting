@@ -23,8 +23,9 @@ p{
     margin: 20px;
     letter-spacing: 1px;
     color: #FFFFFF;
-    font-weight: lighter;
-    background-color: rgba(0, 0, 0, 0.3);
+    font-weight: normal;
+    font-size: 1.125em;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 

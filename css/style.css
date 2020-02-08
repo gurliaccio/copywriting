@@ -18,8 +18,8 @@ a:before{
   width: 0;
   height: 0;
   background: transparent;
-  border: 1px solid transparent;
-  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+  /* padding: 20px; */
 }
 a:hover:before{
   animation: animate 1s linear forwards;
@@ -59,8 +59,8 @@ a:after{
   width: 0;
   height: 0;
   background: transparent;
-  border: 1px solid transparent;
-  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+  /* padding: 20px; */
 }
 a:hover:after{
   animation: animate2 1s linear forwards;

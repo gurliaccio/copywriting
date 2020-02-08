@@ -15,14 +15,14 @@ body {
 
 .bigicon {font-size: 3em;}
 
-h1{font-size: 66px;color: #FFFFFF;}
-h2{font-size: 42px;color: #FFFFFF;}
-h3{font-size: 28px;color: #FFFFFF;}
-h4{background-color: rgba(0, 0, 0, 0.3);font-size: 18px; line-height: 1.4em;color: #FFFFFF;}
+h1{font-size: 66px;color: #000000;}
+h2{font-size: 42px;color: #000000;}
+h3{font-size: 28px;color: #000000;}
+h4{background-color: rgba(0, 0, 0, 0.3);font-size: 18px; line-height: 1.4em;color: #000000;}
 p{
     margin: 20px;
     letter-spacing: 1px;
-    color: #FFFFFF;
+    color: #000000;
     font-weight: normal;
     font-size: 1.125em;
     background-color: rgba(0, 0, 0, 0.5);

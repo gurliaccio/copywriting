@@ -88,12 +88,11 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-
        <div class="container">
            <p style="margin:100px 100px 20px 100px; padding:20px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-        </div>        
-        <br><br>
-       <div id="services" class="container">
+       </div>        
+        
+       <div id="services" class="container" style="margin-top:260px;">
         
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>

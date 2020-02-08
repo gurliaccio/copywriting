@@ -92,11 +92,11 @@
            <p style="margin:100px 100px 20px 100px; padding:20px; color:#f5f5f5" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
        </div>        
         
-       <div id="services" class="container" style="margin-top:260px;">
+       <div id="services" class="container" style="margin-top:230px;">
         
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
-            <h3 style="margin-top: 50px;color:#f5f5f5" >Samples of My Work</h3>
+            <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

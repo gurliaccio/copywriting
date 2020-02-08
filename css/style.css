@@ -32,8 +32,8 @@ p{
 DEFAULT STYLE & FORMATING
 ================================*/
 ul{padding: 0;}
-a{color: #ea9312}
-a:hover{color: #c3c3c3; text-decoration: none;}
+a{color: rgb(15, 16, 16)}
+a:hover{color: #ffffff; text-decoration: none;}
 img{max-width: 100%;}
 
 #services{text-align: center;}

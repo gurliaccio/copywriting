@@ -14,7 +14,7 @@
 				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
 				formats to work correctly.
 			-->
-				<section id="banner" data-video="images/1">
+				<section id="banner" data-video="images/banner">
 					<div class="inner">
 						<header>
 							<h1>Hi there, <span style="color:black">I'm Michael.</span><br>I'm here to help.</h1>

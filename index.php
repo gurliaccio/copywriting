@@ -35,13 +35,6 @@
 </head>
 <body data-spy="scroll">
     <header>
-        <div id="hero">
-            <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-            <div class="container herocontent">
-                <h1 class="wow fadeInUp" data-wow-duration="2s" style="color: white;">Hi there, <span style="color:black">I'm Michael.</span></h1>
-                <h1 class="wow fadeInDown" data-wow-duration="4s" style="color: white;"> I'm here to help.</span>
-            </div>
-        </div>
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <div class="container">
 
@@ -73,11 +66,17 @@
             </div>
         </nav>
     </header>
-        <div class="container">
+    <div id="hero">
+      <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
+      <div class="container herocontent">
+          <h1 class="wow fadeInUp" data-wow-duration="2s" style="color: white;">Hi there, <span style="color:black">I'm Michael.</span></h1>
+          <!-- <h1 class="wow fadeInDown" data-wow-duration="4s" style="color: white;"> I'm here to help.</span> -->
+      </div>
+  </div>
+    <div class="container">
            <p style="margin:100px 100px 20px 100px; padding:20px; color:#f5f5f5; background-color: rgb(0,0,0,.5);" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-
             <div class="arrow bounce"><i class="fa fa-angle-down fa-5x" aria-hidden="true"></i></div>
-        </div>
+        </div><br><br><br><br>
        <div id="services" class="container" style="margin-top:230px;">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>

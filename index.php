@@ -72,12 +72,13 @@
           <h1 class="wow fadeInUp" data-wow-duration="2s" style="color: white;">Hi there, <span style="color:black">I'm Michael.</span></h1>
           <!-- <h1 class="wow fadeInDown" data-wow-duration="4s" style="color: white;"> I'm here to help.</span> -->
       </div>
-  </div>
+    </div>
     <div id="support" class="container">
-           <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-            <div class="arrow bounce"><i class="fa fa-angle-down fa-5x" aria-hidden="true"></i></div>
-        </div><br><br><br><br>
-       <div id="services" class="container" style="margin-top:230px;">
+          <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+          <div class="arrow bounce"><i class="fa fa-angle-down fa-5x" aria-hidden="true"></i></div>
+    </div><br><br><br><br>
+
+        <div id="services" class="container" style="margin-top:230px;">
         <div class="sectionhead  row wow fadeInUp">
             <!-- <span class="bigicon icon-cup "></span> -->
             <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
@@ -85,7 +86,7 @@
 
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-              <a href="javascript:0;">
+              <a>
                 <img src="img/s5.png" alt="">
                 <h4 class="red">Anthem</h4>
                 <p class="red">Enormous healthcare insurers are not known for being technology innovators, so I was hired to help change all that. Today, I work on Anthem's UX team with designers, developers, and product managers to build and maintain industry-leading solutions for our public and member digital properties.</p>
@@ -313,7 +314,7 @@
             </div>
             <!-- Modal End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
+            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
               <a href="javascript:0;">
                 <img src="img/s6.png" alt="">
                 <h4>Sur La Table</h4>
@@ -396,16 +397,12 @@
     <script src="js/drifolio.js"></script>
     <script src="js/wow.min.js"></script>
     <script>
-        new WOW().init();
-
-        function myFunction() {
-            alert("my work...");
-        }
+      new WOW().init();
 
       $(window).scroll(function(){
           $(".arrow").css("opacity", 1 - $(window).scrollTop() / 250);
         //250 is fade pixels
-        });
+      });
     </script>
 </body>
 </html>

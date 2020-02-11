@@ -73,8 +73,8 @@
           <!-- <h1 class="wow fadeInDown" data-wow-duration="4s" style="color: white;"> I'm here to help.</span> -->
       </div>
   </div>
-    <div class="container">
-           <p id="support" class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+    <div id="support" class="container">
+           <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
             <div class="arrow bounce"><i class="fa fa-angle-down fa-5x" aria-hidden="true"></i></div>
         </div><br><br><br><br>
        <div id="services" class="container" style="margin-top:230px;">

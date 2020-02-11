@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <script src="https://use.fontawesome.com/61acc7427d.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -205,8 +206,8 @@
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <img src="img/s1.png" alt="">
-                <h4>Ford</h4>
-                <p>If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
+                <h4 class="red">Ford</h4>
+                <p class="red">If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -256,8 +257,8 @@
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
-                <h4>AIG</h4>
-                <p>I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
+                <h4 class="red">AIG</h4>
+                <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -293,8 +294,8 @@
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <img src="img/s4.png" alt="">
-                <h4>Oracle</h4>
-                <p>I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
+                <h4 class="red">Oracle</h4>
+                <p class="red">I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -325,8 +326,8 @@
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <img src="img/s6.png" alt="">
-                <h4>Sur La Table</h4>
-                <p>I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
+                <h4 class="red">Sur La Table</h4>
+                <p class="red">I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
             </div>
             <!-- ITEM END -->
                         <!-- Modal -->

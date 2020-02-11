@@ -44,8 +44,8 @@
             <!-- <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
 
             <div class="container herocontent">
-                <h1 class="wow bounceInDown" data-wow-duration="4s">Hi there.</h1>
-                <h1 class="wow bounceInUp" data-wow-duration="8s">I'm Michael.</h1>
+                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h1>
+                <h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
             </div>
 
         </div>
@@ -89,11 +89,17 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-       <div class="container">
-           <p class="wow bounceInUp" data-wow-duration="12s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-       </div>
+        <div id= "aboutme" class="container">
+           <p class="wow fadeInRight" data-wow-duration="6s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+        </div>
 
-       <div id="services" class="container" style="margin-top:200px;">
+<!-- <div class="downArrow bounce">
+  <img width="40" height="40" alt="" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMyIDMyIiBoZWlnaHQ9IjMycHgiIGlkPSLQodC70L7QuV8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxwYXRoIGQ9Ik0yNC4yODUsMTEuMjg0TDE2LDE5LjU3MWwtOC4yODUtOC4yODhjLTAuMzk1LTAuMzk1LTEuMDM0LTAuMzk1LTEuNDI5LDAgIGMtMC4zOTQsMC4zOTUtMC4zOTQsMS4wMzUsMCwxLjQzbDguOTk5LDkuMDAybDAsMGwwLDBjMC4zOTQsMC4zOTUsMS4wMzQsMC4zOTUsMS40MjgsMGw4Ljk5OS05LjAwMiAgYzAuMzk0LTAuMzk1LDAuMzk0LTEuMDM2LDAtMS40MzFDMjUuMzE5LDEwLjg4OSwyNC42NzksMTAuODg5LDI0LjI4NSwxMS4yODR6IiBmaWxsPSIjMTIxMzEzIiBpZD0iRXhwYW5kX01vcmUiLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48L3N2Zz4=" />
+</div> -->
+
+<br><br><br><br><br><br>
+
+       <div id="services" class="container" style="margin-top:230px;">
         <div class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
             <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>

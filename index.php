@@ -44,8 +44,8 @@
             <!-- <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
 
             <div class="container herocontent">
-                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h1>
-                <h1 class="wow fadeInDown" data-wow-duration="3s">I'm Michael.</h1>
+                <h1 class="wow fadeInUpBig" data-wow-duration="2s">Hi there.</h1>
+                <h1 class="wow fadeInDownBig" data-wow-duration="3s">I'm Michael.</h1>
             </div>
 
         </div>
@@ -90,7 +90,7 @@
     SERVICE SECTION START
     =========================== -->
        <div class="container">
-           <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+           <p class="wow bounceInUp" data-wow-duration="6s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
        </div>
 
        <div id="services" class="container" style="margin-top:200px;">

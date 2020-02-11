@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <script src="https://use.fontawesome.com/ba7d3d8045.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="">
     <link rel="stylesheet" href="css/simple-line-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Antic|Raleway:300">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -33,8 +32,28 @@
     =========================== -->
     <!--Replace this line with your analytics code-->
 </head>
+
 <body data-spy="scroll">
+
     <header>
+        <!-- ===========================
+        HERO AREA
+        =========================== -->
+        <div id="hero">
+
+            <!-- <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
+
+            <div class="container herocontent">
+                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi there.</h1>
+                <h1 class="wow fadeInDown" data-wow-duration="3s">I'm Michael.</h1>
+            </div>
+
+        </div>
+        <!--HERO AREA END-->
+
+        <!-- ===========================
+         NAVBAR START
+         =========================== -->
         <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <div class="container">
 
@@ -65,32 +84,32 @@
                 <!--.nav-collapse -->
             </div>
         </nav>
+        <!--navbar end-->
     </header>
-    <div id="hero">
-      <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-      <div class="container herocontent">
-          <h1 class="wow fadeInUp" data-wow-duration="2s" style="color: white;">Hi there, <span style="color:black">I'm Michael.</span></h1>
-          <!-- <h1 class="wow fadeInDown" data-wow-duration="4s" style="color: white;"> I'm here to help.</span> -->
-      </div>
-    </div>
-    <div id="support" class="container">
-          <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-          <div class="arrow bounce"><i class="fa fa-angle-down fa-5x" aria-hidden="true"></i></div>
-    </div><br><br><br><br>
+    <!-- ===========================
+    SERVICE SECTION START
+    =========================== -->
+       <div class="container">
+           <p class="wow fadeInDown" data-wow-duration="3s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
 
-        <div id="services" class="container" style="margin-top:230px;">
-        <div class="sectionhead  row wow fadeInUp">
-            <!-- <span class="bigicon icon-cup "></span> -->
-            <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
+
+<div class="downArrow bounce">
+  <img width="40" height="40" alt="" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDMyIDMyIiBoZWlnaHQ9IjMycHgiIGlkPSLQodC70L7QuV8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxwYXRoIGQ9Ik0yNC4yODUsMTEuMjg0TDE2LDE5LjU3MWwtOC4yODUtOC4yODhjLTAuMzk1LTAuMzk1LTEuMDM0LTAuMzk1LTEuNDI5LDAgIGMtMC4zOTQsMC4zOTUtMC4zOTQsMS4wMzUsMCwxLjQzbDguOTk5LDkuMDAybDAsMGwwLDBjMC4zOTQsMC4zOTUsMS4wMzQsMC4zOTUsMS40MjgsMGw4Ljk5OS05LjAwMiAgYzAuMzk0LTAuMzk1LDAuMzk0LTEuMDM2LDAtMS40MzFDMjUuMzE5LDEwLjg4OSwyNC42NzksMTAuODg5LDI0LjI4NSwxMS4yODR6IiBmaWxsPSIjMTIxMzEzIiBpZD0iRXhwYW5kX01vcmUiLz48Zy8+PGcvPjxnLz48Zy8+PGcvPjxnLz48L3N2Zz4=" />
+</div>
+
         </div>
 
+       <div id="services" class="container" style="margin-top:230px;">
+        <div class="sectionhead  row wow fadeInUp">
+            <span class="bigicon icon-cup "></span>
+            <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
+        </div>
+        <!-- SERVICE ITEMS START -->
         <div class="row">
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-              <a>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <img src="img/s5.png" alt="">
                 <h4 class="red">Anthem</h4>
                 <p class="red">Enormous healthcare insurers are not known for being technology innovators, so I was hired to help change all that. Today, I work on Anthem's UX team with designers, developers, and product managers to build and maintain industry-leading solutions for our public and member digital properties.</p>
-              </a>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -136,12 +155,10 @@
                 </div>
             </div>
             <!-- Modal End-->
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-              <a href="javascript:0;">
-              <img src="img/s2.png" alt="">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
+                <img src="img/s2.png" alt="">
                 <h4 class="red">Microsoft</h4>
                 <p class="red">JWT Seattle was hired to create a web portal, print, and collateral to help our client attract top developer talent. We collaborated with nine separate business units to offer a glimpse into life at Microsoft and later were asked by the User Research and Mobile App divisions to create a website, display ads, and print.</p>
-              </a>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -188,12 +205,10 @@
             </div>
             <!-- Modal End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
-              <a href="javascript:0;">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <img src="img/s1.png" alt="">
                 <h4>Ford</h4>
                 <p>If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
-                </a>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -241,13 +256,11 @@
             <!-- Modal End-->
 
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-              <a href="javascript:0;">
-              <img src="img/s3.png" alt="">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
+                <img src="img/s3.png" alt="">
                 <h4>AIG</h4>
                 <p>I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
-              </a>
-              </div>
+            </div>
             <!-- ITEM END -->
             <!-- Modal -->
             <div class="modal fade" id="myModal3" role="dialog">
@@ -280,12 +293,10 @@
             </div>
             <!-- Modal End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-              <a href="javascript:0;">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <img src="img/s4.png" alt="">
                 <h4>Oracle</h4>
                 <p>I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
-                </a>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -314,13 +325,11 @@
             </div>
             <!-- Modal End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp bor" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
-              <a href="javascript:0;">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <img src="img/s6.png" alt="">
                 <h4>Sur La Table</h4>
                 <p>I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
-              </a>
-              </div>
+            </div>
             <!-- ITEM END -->
                         <!-- Modal -->
             <div class="modal fade" id="myModal6" role="dialog">
@@ -347,15 +356,44 @@
                     </div>
                 </div>
             </div>
-
             <!-- Modal End-->
         </div>
         <!-- SERVICE ITEMS END-->
     </div>
     <!-- SERVICE SECTION END -->
+
+    <!-- ===========================
+    PORTFOLIO SECTION START
+    =========================== -->
+  <!--   <div id="portfolio">
+        <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
+            <span class="bigicon icon-rocket"></span>
+
+
+
+A few recent works</h3>
+            <hr class="separetor">
+        </div>
+
+        <div class="portfolioitems container">
+            <div class="row">
+                <ul class="shots"></ul>
+            </div>
+        </div>
+
+        <a class="btn btn-default wow fadeInUp" href="http://dribbble.com/srizon" role="button">
+            <span class="btnicon icon-social-dribbble"></span>
+            <span class="button_text">View all items</span>
+        </a>
+    </div> -->
+    <!-- PORTFOLIO SECTION END -->
+
+    <!-- ===========================
+    TESTIMONIAL SECTION START
+    =========================== -->
     <div id="testimonials" class="container">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
-            <!-- <span class="bigicon icon-bubbles"></span> -->
+            <span class="bigicon icon-bubbles"></span>
             <!--  <h3>Let's Talk</h3> -->
              <h5 class="wow animated bounceInUp" data-wow-duration="4s">
                 <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Let's Talk</a>
@@ -364,17 +402,93 @@
                 (404) 457-1496</h4>
             <!-- <hr class="separetor"> -->
         </div>
+        <!-- TESTIMONIAL SECTIONHEAD END -->
+
+        <!-- <a class="twitter-timeline" href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw">Tweets by atlcopywriter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+        <!-- <a href="https://twitter.com/atlcopywriter?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @atlcopywriter</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+        <!-- TESTIMONIAL ITEMS START -->
+        <!-- <div class="row">
+
+            <div class="col-md-6 wow bounceIn" data-wow-duration="2s">
+                <div class="clientsphoto">
+                    <img src="img/dan.jpg" alt="Dan">
+                </div>
+
+                <div class="quote">
+                    <blockquote>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>
+                    </blockquote>
+                    <h5>Dan Cederholm</h5>
+                    <p>Co-Founder, Dribbble</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 wow bounceIn" data-wow-duration="3s">
+                <div class="clientsphoto">
+                    <img src="img/bill.jpg" alt="Bill">
+                </div>
+
+                <div class="quote">
+                    <blockquote>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et. lorem</p>
+                    </blockquote>
+                    <h5>Bill S Kenney</h5>
+                    <p>Art Director at Focus Lab LLC.</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 wow bounceIn" data-wow-duration="3s">
+                <div class="clientsphoto">
+                    <img src="img/eric.png" alt="Eric">
+                </div>
+
+                <div class="quote">
+                    <blockquote>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>
+                    </blockquote>
+                    <h5>Eric Hoffman</h5>
+                    <p>Principal Designer, JellyJar</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 wow bounceIn" data-wow-duration="2s">
+                <div class="clientsphoto">
+                    <img src="img/ramil.jpg" alt="Ramil">
+                </div>
+
+                <div class="quote">
+                    <blockquote>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia et pariatur ipsam tempora officia ea iusto expedita, nulla, hic odit saepe repellat nesciunt dolorum, officiis laborum ad, aliquam. Quos, et.</p>
+                    </blockquote>
+                    <h5>Ramil Derogongun</h5>
+                    <p>Visual Designer, Bluroon</p>
+                </div>
+            </div>
+
+        </div> -->
     </div>
-    <!--FOOTER START-->
+    <!-- TESTIMONIAL SECTION END -->
+
+    <!-- ===========================
+    FOOTER START
+    =========================== -->
     <footer>
         <div class="container">
+            <!-- <span class="bigicon icon-speedometer "></span> -->
+
             <div class="footerlinks">
+                <!-- FOOTER LINKS START -->
                 <ul>
                     <li><a href="#hero">Back To Top</a></li>
                     <li><a href="#about">About Me</a></li>
                     <li><a href="#services">Selected Work</a></li>
                     <li><a href="mailto:gurliaccio@gmail.com">Email</a></li>
                     <li><a href="MichaelGurliaccioResume.pdf">My Resume</a></li>
+
+                    <!-- <li><a href="#testimonials">Testimonials</a></li> -->
+
                 </ul>
             </div>
         </div>
@@ -384,9 +498,11 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins)
         <script src="js/jquery.min.js">
     -->
+
     <script src="https://code.jquery.com/jquery-1.11.1.min.js"
   integrity="sha256-VAvG3sHdS5LqTT+5A/aeq/bZGa/Uj04xKxY8KM/w9EE="
   crossorigin="anonymous"></script>
+
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
@@ -397,12 +513,12 @@
     <script src="js/drifolio.js"></script>
     <script src="js/wow.min.js"></script>
     <script>
-      new WOW().init();
+        new WOW().init();
 
-      $(window).scroll(function(){
-          $(".arrow").css("opacity", 1 - $(window).scrollTop() / 250);
-        //250 is fade pixels
-      });
+        function myFunction() {
+            alert("my work...");
+        }
     </script>
 </body>
+
 </html>

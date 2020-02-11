@@ -1,101 +1,103 @@
 *{	-webkit-transition: .7s ease-out;
- 	-moz-transition: .7s ease-out;
- 	-o-transition:  .7s ease-out;
- 	transition: .7s ease-out;
-    list-style: none;
+  -moz-transition: .7s ease-out;
+  -o-transition:  .7s ease-out;
+  transition: .7s ease-out;
+   list-style: none;
 }
-
+.red {
+  color: #000000;
+}
 @media only screen and (max-width : 2900px) {
-  #support {
-    margin:100px 100px 20px 100px;
-    padding:20px;
-    color:#f5f5f5;
-    background-color: rgb(0,0,0,.5);
-  }
-    #hero{max-height: 660px;}
-    #clients img{height: 50px;}
+ #support {
+   margin:100px 100px 20px 100px;
+   padding:20px;
+   color:#f5f5f5;
+   background-color: rgb(0,0,0,.8);
+ }
+   #hero{max-height: 660px;}
+   #clients img{height: 50px;}
 }
 
 @media only screen and (max-width : 1024px) {
-  #support {
-    margin:10px 10px 20px 10px;
-    padding:5px;
-    color:#f5f5f5;
-    background-color: rgb(0,0,0,.5);
-  }
-    #hero{max-height: 660px;}
-    #clients img{height: 50px;}
+ #support {
+   margin:10px 10px 20px 10px;
+   padding:5px;
+   color:#f5f5f5;
+   background-color: rgb(0,0,0,8);
+ }
+   #hero{max-height: 660px;}
+   #clients img{height: 50px;}
 }
 
 
 .bor:hover {
-  background-color: rgb(130, 229, 242, .5);
+ background-color: rgb(130, 229, 242, .5);
 }
 
 @-moz-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -moz-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -moz-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -moz-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -moz-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -moz-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -moz-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 @-webkit-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -webkit-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -webkit-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -webkit-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -webkit-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -webkit-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -moz-transform: translateY(0);
-    -ms-transform: translateY(0);
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -moz-transform: translateY(-30px);
-    -ms-transform: translateY(-30px);
-    -webkit-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -moz-transform: translateY(-15px);
-    -ms-transform: translateY(-15px);
-    -webkit-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -moz-transform: translateY(0);
+   -ms-transform: translateY(0);
+   -webkit-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -moz-transform: translateY(-30px);
+   -ms-transform: translateY(-30px);
+   -webkit-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -moz-transform: translateY(-15px);
+   -ms-transform: translateY(-15px);
+   -webkit-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 
 .arrow {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  margin-left: -20px;
-  width: 40px;
-  height: 60px; /*change with size of arrow to make sit on bottom */
+ position: absolute;
+ bottom: 0;
+ left: 50%;
+ margin-left: -20px;
+ width: 40px;
+ height: 60px; /*change with size of arrow to make sit on bottom */
 /*   background-image: url(); */
 /*   background-size: contain; */
 }
 
 .bounce {
-  -moz-animation: bounce 2s infinite;
-  -webkit-animation: bounce 2s infinite;
-  animation: bounce 2s infinite;
+ -moz-animation: bounce 2s infinite;
+ -webkit-animation: bounce 2s infinite;
+ animation: bounce 2s infinite;
 }
 
 /*================================
@@ -103,62 +105,62 @@ TYPOGRAPHY
 ================================*/
 
 .downArrow{
-	position: fixed;
-	bottom: 45%;
-	left: 50%;
+ position: fixed;
+ bottom: 45%;
+ left: 50%;
 }
 .bounce {
-	-moz-animation: bounce 3s infinite;
-	-webkit-animation: bounce 3s infinite;
-	animation: bounce 3s infinite;
+ -moz-animation: bounce 3s infinite;
+ -webkit-animation: bounce 3s infinite;
+ animation: bounce 3s infinite;
 }
 @-moz-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -moz-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -moz-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -moz-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -moz-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -moz-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -moz-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 @-webkit-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -webkit-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -webkit-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -webkit-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -webkit-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -webkit-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    -moz-transform: translateY(0);
-    -ms-transform: translateY(0);
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-  40% {
-    -moz-transform: translateY(-30px);
-    -ms-transform: translateY(-30px);
-    -webkit-transform: translateY(-30px);
-    transform: translateY(-30px);
-  }
-  60% {
-    -moz-transform: translateY(-15px);
-    -ms-transform: translateY(-15px);
-    -webkit-transform: translateY(-15px);
-    transform: translateY(-15px);
-  }
+ 0%, 20%, 50%, 80%, 100% {
+   -moz-transform: translateY(0);
+   -ms-transform: translateY(0);
+   -webkit-transform: translateY(0);
+   transform: translateY(0);
+ }
+ 40% {
+   -moz-transform: translateY(-30px);
+   -ms-transform: translateY(-30px);
+   -webkit-transform: translateY(-30px);
+   transform: translateY(-30px);
+ }
+ 60% {
+   -moz-transform: translateY(-15px);
+   -ms-transform: translateY(-15px);
+   -webkit-transform: translateY(-15px);
+   transform: translateY(-15px);
+ }
 }
 
 .bigicon {font-size: 3em;}
@@ -168,12 +170,12 @@ h2{font-family: 'Raleway', sans-serif;font-size: 42px;color: #000000;}
 h3{font-family: 'Raleway', sans-serif;font-size: 28px;color: #000000;}
 h4{font-family: 'Raleway', sans-serif;font-size: 18px; line-height: 1.4em;color: #000000;}
 p{
-    margin: 10px;
-    letter-spacing: 1px;
-    color: #000000;
-    font-weight: normal;
-    font-size: 1em;
-    font-family: 'Raleway', sans-serif;
+   margin: 10px;
+   letter-spacing: 1px;
+   color: #ffffff;
+   font-weight: normal;
+   font-size: 1em;
+   font-family: 'Raleway', sans-serif;
 }
 
 
@@ -193,34 +195,34 @@ img{max-width: 100%;}
 .col-md-3 {padding: 0;}
 
 .sectionhead{
-    text-align: center;
-    padding-top: 100px;
-    padding-bottom: 50px;
+   text-align: center;
+   padding-top: 100px;
+   padding-bottom: 50px;
 }
 
 hr.separetor{
-    width: 20%;
-    color: #363942;
-    border-top: 2px solid #ea9312;
+   width: 20%;
+   color: #363942;
+   border-top: 2px solid #ea9312;
 }
 
 
 .btn-default{
-    background: none;
-    border: none;
-    text-transform: uppercase;
-    margin: 50px 0;
-    color: #c3c3c3;
-    letter-spacing: 2px;
+   background: none;
+   border: none;
+   text-transform: uppercase;
+   margin: 50px 0;
+   color: #c3c3c3;
+   letter-spacing: 2px;
 }
 
 .btn-default:hover{
-    background: none;
-    color: #ea9312;
+   background: none;
+   color: #ea9312;
 }
 
 .btnicon, .brandicon{
-    margin-right: 10px;
+   margin-right: 10px;
 }
 
 
@@ -228,33 +230,33 @@ hr.separetor{
 HERO AREA
 ================================*/
 #hero{
-    color: #fff;
-    text-align: center;
-    /* background: url(../img/1.svg)no-repeat; my old red blue background image */
-    /* background: url(../img/1.mp4); my background video loop*/
-    /* background-size: cover; */
-    max-height: 880px;
-    overflow: hidden;
+   color: #fff;
+   text-align: center;
+   /* background: url(../img/1.svg)no-repeat; my old red blue background image */
+   /* background: url(../img/1.mp4); my background video loop*/
+   /* background-size: cover; */
+   max-height: 880px;
+   overflow: hidden;
 }
 #myVideo {
-  position: absolute;
-  opacity: 0.5;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
+ position: absolute;
+ opacity: 0.9;
+ right: 0;
+ bottom: 0;
+ min-width: 100%;
+ min-height: 100%;
 }
 
 
 
 .herocontent{
-    padding-top: 100px;
-    width: 100%;
-    max-width: 900px;
+   padding-top: 100px;
+   width: 100%;
+   max-width: 900px;
 }
 .heroshot{
-    margin-top: 20px;
-    width: 30%;
+   margin-top: 20px;
+   width: 30%;
 
 }
 
@@ -262,25 +264,25 @@ HERO AREA
 CLIENTS SECTION
 ================================*/
 #clients{
-    padding-top: 30px;
+   padding-top: 30px;
 }
 #clients h4{
-    padding-top: 10px;
+   padding-top: 10px;
 }
 
 #clients .col-md-4{
-    padding-bottom: 0;
+   padding-bottom: 0;
 }
 
 #clients ul{float: right}
 
 #clients li{
-    display: inline;
-    margin-right: 35px;
+   display: inline;
+   margin-right: 35px;
 }
 
 #clients li:last-child{
-    margin-right: 0px;
+   margin-right: 0px;
 }
 
 
@@ -292,23 +294,23 @@ ABOUT SECTION
 .myapps{margin-top: 25px;}
 .myapps li{display: inline}
 .myapps li img{
-    width: 30px;
+   width: 30px;
 }
 
 /*================================
 PORTFOLIO SECTION
 ================================*/
 #portfolio{
-    background: #f6f6f6;
-    margin-top: 50px;
-    padding: 30px 0;
-    text-align: center;
+   background: #f6f6f6;
+   margin-top: 50px;
+   padding: 30px 0;
+   text-align: center;
 }
 
 
 
 #portfolio img{
-    border: 5px solid #fff;
+   border: 5px solid #fff;
 }
 
 /*================================
@@ -316,25 +318,25 @@ TESTIMONIAL SECTION
 ================================*/
 
 .clientsphoto img{
-    width: 80px;
-    float: left;
-    margin-right: 20px;
-    border-radius: 50%;
+   width: 80px;
+   float: left;
+   margin-right: 20px;
+   border-radius: 50%;
 }
 
 .clientsphoto img:hover{
-    border-radius: 15%;
+   border-radius: 15%;
 }
 
 blockquote{
-    margin: 0;
-    padding: 0 0 10px 0;
-    border: none;
+   margin: 0;
+   padding: 0 0 10px 0;
+   border: none;
 }
 
 blockquote p{
-    font-style: italic;
-    font-size: 14px;
+   font-style: italic;
+   font-size: 14px;
 }
 
 .quote{overflow: hidden}
@@ -346,27 +348,27 @@ FOOTER SECTION
 ================================*/
 
 footer{
-    text-align: center;
-    padding: 50px 0;
-    background-color: rgba(0, 0, 0, 0.3);
+   text-align: center;
+   padding: 50px 0;
+   background-color: rgba(0, 0, 0, 0.3);
 }
 
 footer p, footer .bigicon {color: #7e7e7e;}
 
 .footerlinks{margin: 30px 0;}
 .footerlinks li{
-    display: inline;
-    padding: 10px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
+   display: inline;
+   padding: 10px;
+   text-transform: uppercase;
+   letter-spacing: 3px;
 }
 
 .footersocial {margin-top: 30px;}
 
 .footersocial li{
-    display:inline;
-    padding: 0 15px;
-    font-size: 2em;
+   display:inline;
+   padding: 0 15px;
+   font-size: 2em;
 }
 
 .footersocial li a {color: #7e7e7e;}
@@ -376,74 +378,74 @@ footer p, footer .bigicon {color: #7e7e7e;}
 FOLLOW BUTTON
 ================================*/
 .dribbble-follow-button {
-	display: inline-block;
-    margin-top: 15px;
+ display: inline-block;
+   margin-top: 15px;
 }
 
 .dribbble-follow-button .label, .dribbble-follow-button .count {
-    font: bold 11px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #333;
-    border: 1px solid #ccc;
-    text-decoration: none;
-    display: inline-block;
-    position: relative;
-    border-radius: 3px;
+   font: bold 11px/18px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   color: #333;
+   border: 1px solid #ccc;
+   text-decoration: none;
+   display: inline-block;
+   position: relative;
+   border-radius: 3px;
 }
 
 .dribbble-follow-button .label {
-    padding: 0 3px 0 1px;
-    white-space: nowrap;
-    background: #e3e3e3;
-    background: linear-gradient(top, white, #dedede);
+   padding: 0 3px 0 1px;
+   white-space: nowrap;
+   background: #e3e3e3;
+   background: linear-gradient(top, white, #dedede);
 }
 
 .dribbble-follow-button .label i {
-    height: 18px;
-    width: 18px;
-    float: left;
-    background: url(../img/icon.png) no-repeat top left;
+   height: 18px;
+   width: 18px;
+   float: left;
+   background: url(../img/icon.png) no-repeat top left;
 }
 
 .dribbble-follow-button .label:hover {
-    border-color: #bbb;
-    background: #fff;
-    color: #333;
+   border-color: #bbb;
+   background: #fff;
+   color: #333;
 }
 
 .dribbble-follow-button .label:active {
-     box-shadow: 0 1px 5px rgba(0,0,0,.15) inset;
+    box-shadow: 0 1px 5px rgba(0,0,0,.15) inset;
 }
 
 .dribbble-follow-button .count {
-    margin-left: 5px;
-    padding: 0 3px;
-    color: #333;
-    border-color: #bbb;
-    font-weight: normal;
-    background: white;
+   margin-left: 5px;
+   padding: 0 3px;
+   color: #333;
+   border-color: #bbb;
+   font-weight: normal;
+   background: white;
 }
 
 .dribbble-follow-button .count:hover {
-    text-decoration: underline;
+   text-decoration: underline;
 }
 
 .dribbble-follow-button .count > * {
-	top: 50%;
-	left: 0;
-	margin: -4px 0 0 -4px;
-	border: 4px solid transparent;
-	border-right-color: #aaa;
-	border-left: 0;
-	position: absolute;
+ top: 50%;
+ left: 0;
+ margin: -4px 0 0 -4px;
+ border: 4px solid transparent;
+ border-right-color: #aaa;
+ border-left: 0;
+ position: absolute;
 }
 
 .dribbble-follow-button .count u {
-    margin-left: -3px;
-    border-right-color: white;
+   margin-left: -3px;
+   border-right-color: white;
 }
 
 
 @media (max-width: 767px){
-    .shots img{margin-bottom: 15px; max-width: 90%}
+   .shots img{margin-bottom: 15px; max-width: 90%}
 }
 

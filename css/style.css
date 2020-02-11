@@ -4,103 +4,33 @@
  	transition: .7s ease-out;
     list-style: none;
 }
- #support {
+
+@media only screen and (max-width : 2900px) {
+  #support {
     margin:100px 100px 20px 100px;
     padding:20px;
     color:#f5f5f5;
     background-color: rgb(0,0,0,.5);
-} 
-
-
-a{
-  position: relative;
-  text-decoration: none;
-  display: inline-block;
-}
-a:before{
-  content: '';
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 0;
-  height: 0;
-  background: transparent;
-  background-color: rgba(0, 0, 0, 0.3);
-  /* padding: 20px; */
-}
-a:hover:before{
-  animation: animate 1s linear forwards;
-}
-@keyframes animate{
-  0%{
-    width: 0;
-    height: 0;
-    border-top-color: #262626;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-    border-right-color: transparent;
   }
-  50%{
-    width: 100%;
-    height: 0;
-    border-top-color: #262626;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-    border-right-color: #262626;
-  }
-  100%{
-    width: 100%;
-    height: 100%;
-    border-top-color: #262626;
-    border-bottom-color: transparent;
-    border-left-color: transparent;
-    border-right-color: #262626;
-  }
+    #hero{max-height: 660px;}
+    #clients img{height: 50px;}
 }
 
-a:after{
-  content: '';
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 0;
-  height: 0;
-  background: transparent;
-  background-color: rgba(0, 0, 0, 0.3);
-  /* padding: 20px; */
-}
-a:hover:after{
-  animation: animate2 1s linear forwards;
-  animation-delay: 1s;
-}
-@keyframes animate2{
-  0%{
-    width: 0;
-    height: 0;
-    border-top-color: transparent;
-    border-bottom-color: transparent;
-    border-left-color: #262626;
-    border-right-color: transparent;
+@media only screen and (max-width : 1024px) {
+  #support {
+    margin:10px 10px 20px 10px;
+    padding:5px;
+    color:#f5f5f5;
+    background-color: rgb(0,0,0,.5);
   }
-  50%{
-    width: 0;
-    height: 100%;
-    border-top-color: transparent;
-    border-bottom-color: #262626;
-    border-left-color: #262626;
-    border-right-color: transparent;
-  }
-  100%{
-    width: 100%;
-    height: 100%;
-    border-top-color: transparent;
-    border-bottom-color: #262626;
-    border-left-color: #262626;
-    border-right-color: transparent;
-  }
+    #hero{max-height: 660px;}
+    #clients img{height: 50px;}
 }
 
 
+.bor:hover {
+  background-color: rgb(255, 255, 0, .5);
+}
 
 @-moz-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {

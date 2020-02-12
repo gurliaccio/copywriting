@@ -110,7 +110,7 @@
                 <!-- <i class="fas fa-medkit fa-7x"></i> -->
                 <i class="fas fa-laptop-medical fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">The healthcare industry has not been recognized as a tech innovator, so I was hired to help change all that. I work on Anthem's UX team with designers, developers, researchers, and product managers to build and maintain industry-leading experiences for our public and member digital properties, including both web and mobile.</p>
+                <p class="red">The titans of healthcare are not known to be tech innovators, so I was hired to help change all that. I work on the UX team with designers, developers, researchers, and product managers to build and maintain engaging experiences for our web and mobile digital properties.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -211,7 +211,7 @@
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
-                <p class="red">If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
+                <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -263,7 +263,7 @@
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">AIG</h4>
-                <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
+                <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -301,7 +301,7 @@
                 <!-- <img src="img/s4.png" alt=""> -->
                 <i class="fas fa-cloud fa-7x"></i>
                 <h4 class="red">Oracle</h4>
-                <p class="red">I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
+                <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -334,7 +334,7 @@
                 <!-- <img src="img/s6.png" alt=""> -->
                 <i class="fas fa-utensils fa-7x"></i>
                 <h4 class="red">Sur La Table</h4>
-                <p class="red">I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
+                <p class="red">For our busy e-commerce site I worked with account managers to create informative, conversational product content. In addition, I was in charge of all the delicious content for the Culinary School, which entailed brainstorming with chefs, researching food trends, and creating the monthly newsletter.</p>
             </div>
             <!-- ITEM END -->
                         <!-- Modal -->

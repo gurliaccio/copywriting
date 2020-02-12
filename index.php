@@ -3,11 +3,12 @@
 
 <head>
     <script src="https://use.fontawesome.com/61acc7427d.js"></script>
+    <script src="https://kit.fontawesome.com/a548c11f2e.js" crossorigin="anonymous"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, artificial intelligence, blockchain">
-    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Branding">
+    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
+    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Writing Branding User Experience Expert">
     <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">
@@ -42,7 +43,7 @@
         =========================== -->
         <div id="hero">
 
-            <!-- <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
+            <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
@@ -106,9 +107,11 @@
         <!-- SERVICE ITEMS START -->
         <div class="row">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-                <img src="img/s5.png" alt="">
+                <!-- <img src="img/s5.png" alt=""> -->
+                <!-- <i class="fas fa-medkit fa-7x"></i> -->
+                <i class="fas fa-laptop-medical fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">Enormous healthcare insurers are not known for being technology innovators, so I was hired to help change all that. Today, I work on Anthem's UX team with designers, developers, and product managers to build and maintain industry-leading solutions for our public and member digital properties.</p>
+                <p class="red">The healthcare industry has not been recognized as a tech innovator, so I was hired to help change all that. I work on Anthem's UX team with designers, developers, researchers, and product managers to build and maintain industry-leading experiences for our public and member digital properties, including both web and mobile.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -155,9 +158,10 @@
             </div>
             <!-- Modal End-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
-                <img src="img/s2.png" alt="">
+                <!-- <img src="img/s2.png" alt=""> -->
+                <i class="fab fa-microsoft fa-7x"></i>
                 <h4 class="red">Microsoft</h4>
-                <p class="red">JWT Seattle was hired to create a web portal, print, and collateral to help our client attract top developer talent. We collaborated with nine separate business units to offer a glimpse into life at Microsoft and later were asked by the User Research and Mobile App divisions to create a website, display ads, and print.</p>
+                <p class="red">To help attract the best developer talent in the world, we collaborated with nine separate business units (including the User Research and Mobile divisions) to offer a glimpse into life at the legendary company. Everyone loved our work so much, JWT was hired as the AOR.</p>
             </div>
             <!-- ITEM END -->
             <!-- Modal -->
@@ -205,7 +209,8 @@
             <!-- Modal End-->
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
-                <img src="img/s1.png" alt="">
+                <!-- <img src="img/s1.png" alt=""> -->
+                <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
                 <p class="red">If you haven't worked with this amazing company, let me tell you I've never experienced this level of enthusiasm &mdash; from the senior level account folks, all the way down to the junior staffers. Together we created print ads, radio, and tv spots that highlighted the pride the Ford team has in their product.</p>
             </div>
@@ -222,22 +227,22 @@
                             <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
 
                         <video width="98%" controls>
-                            <source src="f1.mp4" type="video/mp4">
+                            <source src="img/f1.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
                         <video width="98%" controls>
-                            <source src="f2.mp4" type="video/mp4">
+                            <source src="img/f2.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
                         <video width="98%" controls>
-                            <source src="f3.mp4" type="video/mp4">
+                            <source src="img/f3.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
                         <video width="98%" controls>
-                            <source src="f4.mp4" type="video/mp4">
+                            <source src="img/f4.mp4" type="video/mp4">
                                 Step into the future and download Chrome. Your browser does not support video!
                         </video>
 
@@ -256,7 +261,8 @@
 
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-                <img src="img/s3.png" alt="">
+                <!-- <img src="img/s3.png" alt=""> -->
+                <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">AIG</h4>
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve customer experience. In addition to ghostwriting both external and internal presentations for several executives, I created content for web pages, print, an email campaign, event collateral, and online videos.</p>
             </div>
@@ -293,7 +299,8 @@
             <!-- Modal End-->
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-                <img src="img/s4.png" alt="">
+                <!-- <img src="img/s4.png" alt=""> -->
+                <i class="fas fa-cloud fa-7x"></i>
                 <h4 class="red">Oracle</h4>
                 <p class="red">I was senior writer on the Verizon Wireless and Extra Storage Space content management teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created consumer-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
@@ -325,7 +332,8 @@
             <!-- Modal End-->
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
-                <img src="img/s6.png" alt="">
+                <!-- <img src="img/s6.png" alt=""> -->
+                <i class="fas fa-utensils fa-7x"></i>
                 <h4 class="red">Sur La Table</h4>
                 <p class="red">I created informative, conversational content for our million-dollar-a-week e-commerce site. I was also in charge of content for Sur La Table's Culinary School. This meant consulting with different stakeholders, brainstorming with chefs, researching food trends, writing for new cooking classes, and the monthly newsletter.</p>
             </div>

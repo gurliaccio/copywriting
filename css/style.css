@@ -88,7 +88,7 @@ i {
 }
 .arrow {
  position: absolute;
- bottom: 60px;
+ bottom: -5px;
  left: 50%;
  margin-left: -20px;
  width: 40px;
@@ -450,3 +450,4 @@ FOLLOW BUTTON
 @media (max-width: 767px){
    .shots img{margin-bottom: 15px; max-width: 90%}
 }
+

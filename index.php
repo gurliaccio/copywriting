@@ -98,7 +98,7 @@
 
 <br><br><br><br>
 
-       <div id="services" class="container" style="margin-top:230px;">
+       <div id="services" class="container" style="margin-top:20%;">
         <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
             <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>

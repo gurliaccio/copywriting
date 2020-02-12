@@ -7,7 +7,14 @@
 .red {
   color: #000000;
 }
-
+.about {
+  font-size: 1.5em;
+}
+.butts {
+  color: #000000;
+  background-color: #9fd3e2;
+  border-color: #9fd3e2;
+}
 .bor:hover {
  background-color: rgb(130, 229, 242, .5);
 }

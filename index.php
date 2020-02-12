@@ -91,7 +91,7 @@
     SERVICE SECTION START
     =========================== -->
         <div id= "aboutme" class="container">
-           <p class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+           <p class="wow bounceInUp about" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
         </div>
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
@@ -100,7 +100,7 @@
 
        <div id="services" class="container" style="margin-top:20%;">
         <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
-            <span class="bigicon icon-cup "></span>
+            <!-- <span class="bigicon icon-cup "></span> -->
             <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
@@ -364,9 +364,9 @@
             </div>
             <!-- Modal End-->
         </div>
-        <!-- SERVICE ITEMS END-->
+        <!--SERVICE ITEMS END-->
     </div>
-    <!-- SERVICE SECTION END -->
+    <!--SERVICE SECTION END-->
 
     <!-- ===========================
     PORTFOLIO SECTION START
@@ -392,20 +392,17 @@ A few recent works</h3>
             <span class="button_text">View all items</span>
         </a>
     </div> -->
-    <!-- PORTFOLIO SECTION END -->
+    <!--PORTFOLIO SECTION END-->
 
-    <!-- ===========================
-    TESTIMONIAL SECTION START
-    =========================== -->
+    <!--TESTIMONIAL SECTION START-->
     <div id="testimonials" class="container">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
-            <span class="bigicon icon-bubbles"></span>
-            <!--  <h3>Let's Talk</h3> -->
-             <h5 class="wow animated bounceInUp" data-wow-duration="4s">
-                <a type="button" class="btn btn-info btn-lg wow animated bounceInUp" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Let's Talk</a>
+             <h5 class="wow animated bounceInUp" data-wow-duration="2s">
+                <a type="button" class="btn btn-info btn-lg wow animated rubberBand butts" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">My LinkedIn</a>
             <h4>I'm currently available for freelance and full-time assignments.<br>
                 Drop me a line or give me a call anytime.<br>
-                (404) 457-1496</h4>
+                (404) 457-1496
+            </h4>
             <!-- <hr class="separetor"> -->
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->

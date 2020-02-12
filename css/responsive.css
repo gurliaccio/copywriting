@@ -43,8 +43,8 @@
     p {
       margin: 10px 10px 20px;
       padding: 20px;
-      color: rgb(245, 245, 245);
-      background-color: rgba(0, 0, 0, 0.1);
+      color: rgb(0, 0, 0);
+      background-color: rgba(225, 255, 255, 0.5);
       visibility: visible;
       animation-duration: 3s;
       animation-name: fadeInDown;

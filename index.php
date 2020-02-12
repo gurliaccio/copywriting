@@ -96,11 +96,10 @@
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
 
-
 <br><br><br><br>
 
        <div id="services" class="container" style="margin-top:230px;">
-        <div class="sectionhead  row wow fadeInUp">
+        <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
             <span class="bigicon icon-cup "></span>
             <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
         </div>

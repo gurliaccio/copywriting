@@ -17,7 +17,6 @@
    #hero{max-height: 660px;}
    #clients img{height: 50px;}
 }
-
 @media only screen and (max-width : 1024px) {
  #support {
    margin:10px 10px 20px 10px;
@@ -173,7 +172,7 @@ h4{font-family: 'Raleway', sans-serif;font-size: 18px; line-height: 1.4em;color:
 p{
    margin: 10px;
    letter-spacing: 1px;
-   color: #ffffff;
+   color: #000000;
    font-weight: normal;
    font-size: 1em;
    font-family: 'Raleway', sans-serif;

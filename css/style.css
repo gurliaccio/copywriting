@@ -8,7 +8,7 @@
   color: #000000;
 }
 .about {
-  font-size: 1em;
+  font-size: 1.5em;
 }
 .butts {
   color: #000000;
@@ -183,7 +183,7 @@ img{max-width: 100%;}
 
 .sectionhead{
    text-align: center;
-   padding-top: 100px;
+   /* padding-top: 50px; */
    padding-bottom: 50px;
    margin-top: 200px;
 }

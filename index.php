@@ -96,8 +96,6 @@
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
 
-<br><br><br><br>
-
        <div id="services" class="container" style="margin-top:20%;">
         <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
             <!-- <span class="bigicon icon-cup "></span> -->

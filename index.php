@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <script src="https://use.fontawesome.com/61acc7427d.js"></script>
     <script src="https://kit.fontawesome.com/a548c11f2e.js" crossorigin="anonymous"></script>
@@ -34,28 +33,17 @@
     =========================== -->
     <!--Replace this line with your analytics code-->
 </head>
-
 <body data-spy="scroll">
-
     <header>
-        <!-- ===========================
-        HERO AREA
-        =========================== -->
-        <div id="hero">
-
-            <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-
-            <div class="container herocontent">
-                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
-            </div>
-
+<!--hero area-->
+    <div id="hero">
+        <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
+        <div class="container herocontent">
+            <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
         </div>
-        <!--HERO AREA END-->
-
-        <!-- ===========================
-         NAVBAR START
-         =========================== -->
-        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    </div>
+<!--navbar-->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <div class="container">
 
                 <div class="navbar-header">
@@ -85,21 +73,15 @@
                 <!--.nav-collapse -->
             </div>
         </nav>
-        <!--navbar end-->
     </header>
-    <!-- ===========================
-    SERVICE SECTION START
-    =========================== -->
-        <div id= "aboutme" class="container">
-           <p class="wow bounceInUp about" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
-        </div>
-
-        <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
-
-       <div id="services" class="container" style="margin-top:20%;">
-        <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
-            <!-- <span class="bigicon icon-cup "></span> -->
-            <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
+<!--services-->
+    <div class="container">
+      <h6 class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</h6>
+    </div>
+    <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
+        <div id="services" class="container" style="margin-top:20%;">
+            <div class="sectionhead  row wow fadeInUp">
+            <h3>Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

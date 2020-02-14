@@ -4,10 +4,12 @@
   transition: .7s ease-out;
    list-style: none;
 }
+div h3 {
+  color:#000000;
+}
 .red {
   color: #000000;
 }
-
 .butts {
   color: #000000;
   background-color: #9fd3e2;
@@ -16,7 +18,7 @@
 .bor:hover {
  background-color: rgb(130, 229, 242, .5);
 }
-
+/* animation */
 @-moz-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     -moz-transform: translateY(0);
@@ -65,7 +67,6 @@
     transform: translateY(-15px);
   }
 }
-
 i {
   display: block;
   color: #000000;
@@ -78,7 +79,6 @@ i {
  width: 40px;
  height: 60px;
 }
-
 .bounce {
  -moz-animation: bounce 2s infinite;
  -webkit-animation: bounce 2s infinite;
@@ -159,7 +159,7 @@ p{
    letter-spacing: 1px;
    color: #000000;
    font-weight: normal;
-   font-size: 1.5em;
+   font-size: 1em;
    font-family: 'Raleway', sans-serif;
 }
 
@@ -183,7 +183,7 @@ img{max-width: 100%;}
    text-align: center;
    /* padding-top: 50px; */
    padding-bottom: 50px;
-   margin-top: 200px;
+   margin-top: 30px;
 }
 
 hr.separetor{
@@ -272,20 +272,16 @@ CLIENTS SECTION
 }
 
 
-/*================================
-ABOUT SECTION
-================================*/
-#about{padding-top: 100px;}
+/*ABOUT SECTION*/
+/* #about{padding-top: 100px;}
 
 .myapps{margin-top: 25px;}
 .myapps li{display: inline}
 .myapps li img{
    width: 30px;
-}
+} */
 
-/*================================
-PORTFOLIO SECTION
-================================*/
+/*PORTFOLIO SECTION*/
 #portfolio{
    background: #f6f6f6;
    margin-top: 50px;

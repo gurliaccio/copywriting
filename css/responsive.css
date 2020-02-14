@@ -5,7 +5,7 @@
     #hero{height: 540px;}
 
     /*ABOUT SECTION*/
-    #about{padding-top: 40px;}
+    /* #about{padding-top: 40px;} */
 
     /* FEATURED CLIENTS SECTION*/
     #clients {text-align: center;}
@@ -47,9 +47,8 @@
       background-color: rgba(225, 255, 255, 0.5);
       visibility: visible;
       animation-duration: 3s;
-      font-size: 1em;
       animation-name: fadeInDown;
-	    
+      font-size: .75em;
     }
 
     .myphoto{display: none;}
@@ -60,7 +59,7 @@
     .herocontent{padding-top: 30px;}
 
     /*About section*/
-    #about{text-align: center;}
+    /* #about{text-align: center;} */
 
     /*Portfolio*/
     #shotsByPlayerId li {width: 96%;}

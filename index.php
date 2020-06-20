@@ -133,7 +133,6 @@
                     </div>
                 </div>
             </div>
-            </div>
             <!-- Modal End-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal">
                 <!-- <img src="img/s2.png" alt=""> -->

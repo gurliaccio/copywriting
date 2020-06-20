@@ -76,7 +76,7 @@
     </header>
 <!--services-->
     <div class="container">
-      <h6 class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</h6>
+      <p class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</p>
     </div>
     <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
         <div id="services" class="container" style="margin-top:20%;">

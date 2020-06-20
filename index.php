@@ -100,12 +100,10 @@
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
                             <h4 class="modal-title">Anthem</h4>
+                              <p>My first job was to create a content strategy for our new User Experience Design team. As a writer I was an army of one, working alongside interactive designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
                         </div>
                         <br>
                         <div class="modal-body">
-                            <h4 class="modal-title">Coming Soon!</h4>
-                            <p>My first job was to create a content strategy for our new User Experience Design team. As a writer I was an army of one, working alongside interactive designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
-
                             <img src="img/vmw2.jpg">
                             <br><br>
                             <h4 class="modal-title">Mobile Division Website, Event Collateral, and Print</h4>

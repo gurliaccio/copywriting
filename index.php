@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <script src="https://use.fontawesome.com/61acc7427d.js"></script>
     <script src="https://kit.fontawesome.com/a548c11f2e.js" crossorigin="anonymous"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, user experience, and much more!">
+    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
     <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Writing Branding User Experience Expert">
     <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
@@ -33,17 +34,28 @@
     =========================== -->
     <!--Replace this line with your analytics code-->
 </head>
+
 <body data-spy="scroll">
+
     <header>
-<!--hero area-->
-    <div id="hero">
-        <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
-        <div class="container herocontent">
-            <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
+        <!-- ===========================
+        HERO AREA
+        =========================== -->
+        <div id="hero">
+
+            <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
+
+            <div class="container herocontent">
+                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>
+            </div>
+
         </div>
-    </div>
-<!--navbar-->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <!--HERO AREA END-->
+
+        <!-- ===========================
+         NAVBAR START
+         =========================== -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <div class="container">
 
                 <div class="navbar-header">
@@ -73,15 +85,23 @@
                 <!--.nav-collapse -->
             </div>
         </nav>
+        <!--navbar end-->
     </header>
-<!--services-->
-    <div class="container">
-      <p class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</p>
-    </div>
-    <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
-        <div id="services" class="container" style="margin-top:20%;">
-            <div class="sectionhead  row wow fadeInUp">
-            <h3>Samples of My Work</h3>
+    <!-- ===========================
+    SERVICE SECTION START
+    =========================== -->
+        <div id= "aboutme" class="container">
+           <p class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+        </div>
+
+        <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
+
+<br><br><br><br>
+
+       <div id="services" class="container" style="margin-top:20%;">
+        <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
+            <!-- <span class="bigicon icon-cup "></span> -->
+            <h3 style="margin-top: 50px;color:#000000" >Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">
@@ -100,10 +120,34 @@
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
                             <h4 class="modal-title">Anthem</h4>
-                              <p>My first job was to create a content strategy for our new User Experience Design team. As a writer I was an army of one, working alongside interactive designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
                         </div>
                         <br>
                         <div class="modal-body">
+                            <h4 class="modal-title">Nine Different Divisions, Nine Websites and Several Display Ads</h4>
+                            <p>Our first website for Microsoft was such a hit, that eight other business groups clamored for their own. I interviewed key team members, and then created profiles that included hobbies, favorite bands, most memorable MSFT moment, and more, to give the world a taste of what it is like to work for this groundbreaking company.</p>
+
+                            <img src="img/vmw2.jpg">
+                            <br><br>
+                            <h4 class="modal-title">Mobile Division Website, Event Collateral, and Print</h4>
+                            <p>When Microsoft’s mobile division moved into South Lake Union, they called on us to create a website, print ads, billboards, and more.
+                            </p>
+                            <p>I also recommended they get involved in Mind Camp. For the 24-hour, weekend-long event we created custom energy drink labels (“No Rest for the Wicked Smart”), t-shirts and a way for Microsoft to capture interested attendees’ information by means of a printed Compatibility Test with tear-away contact information.</p>
+                            <br>
+                            <img src="img/msftslucomh1.jpg">
+                            <img src="img/s1.jpg">
+                            <img src="img/s2.jpg" style="width:100%">
+                            <img src="img/drinksncards.jpg">
+                            <img src="img/s4.jpg">
+                            <img src="img/s5.jpg">
+                            <br><br>
+                            <h4 class="modal-title">User Research Division Website, Display Ads, and Magazine Ads</h4>
+                            <p>The print campaign and display ads we developed led anyone interested in taking part in a Microsoft study to a website we created with details about the program, and a way to apply.</p>
+                            <br>
+                            <img src="img/msftur.jpg">
+                            <img src="img/msfthereditary.jpg">
+                            <img src="img/msftjustagame.jpg">
+                            <img src="img/msftthumb.jpg">
+                            <img src="img/msftagree.jpg">
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -320,9 +364,9 @@
             </div>
             <!-- Modal End-->
         </div>
-        <!--SERVICE ITEMS END-->
+        <!-- SERVICE ITEMS END-->
     </div>
-    <!--SERVICE SECTION END-->
+    <!-- SERVICE SECTION END -->
 
     <!-- ===========================
     PORTFOLIO SECTION START
@@ -348,17 +392,20 @@ A few recent works</h3>
             <span class="button_text">View all items</span>
         </a>
     </div> -->
-    <!--PORTFOLIO SECTION END-->
+    <!-- PORTFOLIO SECTION END -->
 
-    <!--TESTIMONIAL SECTION START-->
+    <!-- ===========================
+    TESTIMONIAL SECTION START
+    =========================== -->
     <div id="testimonials" class="container">
         <div class="sectionhead wow bounceInUp" data-wow-duration="2s">
+            <!-- <span class="bigicon icon-bubbles"></span> -->
+            <!--  <h3>Let's Talk</h3> -->
              <h5 class="wow animated bounceInUp" data-wow-duration="2s">
-                <a type="button" class="btn btn-info btn-lg wow animated rubberBand butts" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">My LinkedIn</a>
+                <a type="button" class="btn btn-info btn-lg wow animated rubberBand butts" data-wow-duration="4s" href="https://www.linkedin.com/in/firebad/" target="_blank">Let's Talk</a>
             <h4>I'm currently available for freelance and full-time assignments.<br>
                 Drop me a line or give me a call anytime.<br>
-                (404) 457-1496
-            </h4>
+                (404) 457-1496</h4>
             <!-- <hr class="separetor"> -->
         </div>
         <!-- TESTIMONIAL SECTIONHEAD END -->

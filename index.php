@@ -74,7 +74,7 @@
 
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#about"><span class="btnicon icon-user"></span>Me</a></li>
+                        <li><a href="#about"><span class="btnicon icon-user"></span>About Me</a></li>
                         <li><a href="#services"><span class="btnicon icon-cup"></span>Selected Work</a></li>
                         <!-- <li><a href="#portfolio"><span class="btnicon icon-rocket"></span>Portfolio</a></li> -->
                         <!-- <li><a href="#testimonials"><span class="btnicon icon-bubble"></span>Testimonials</a></li> -->
@@ -107,16 +107,18 @@
         <div class="row">
             
 
-            
-
+            <!-- Item 0 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
                 <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
             </div>
-            <!-- ITEM END -->
-            <!-- Modal -->
+            <!-- ITEM 0 END -->
+
+
+
+            <!-- Modal 0 -->
             <div class="modal fade" id="myModal2" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -158,7 +160,64 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal End-->
+            <!-- Modal 0 End-->
+
+
+            
+            <!-- Item 1 -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
+                <!-- <img src="img/s1.png" alt=""> -->
+                <i class="fas fa-car fa-7x"></i>
+                <h4 class="red">Ford</h4>
+                <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
+            </div>
+            <!-- ITEM 1 END -->
+
+
+
+            <!-- Modal 1 -->
+            <div class="modal fade" id="myModal2" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Ford</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+
+                        <video width="98%" controls>
+                            <source src="img/f1.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f2.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f3.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f4.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <img src="img/f1.jpg">
+                        <img src="img/f2.jpg" style="width:100%">
+                        <img src="img/f3.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal 1 End-->
 
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
@@ -167,8 +226,8 @@
                 <h4 class="red">AIG</h4>
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
             </div>
-            <!-- ITEM END -->
-            <!-- Modal -->
+            <!-- ITEM 2 END -->
+            <!-- Modal 2 -->
             <div class="modal fade" id="myModal3" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -197,7 +256,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal End-->
+            <!-- Modal 2 End-->
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <!-- <img src="img/s4.png" alt=""> -->
@@ -205,7 +264,7 @@
                 <h4 class="red">Oracle</h4>
                 <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
-            <!-- ITEM END -->
+            <!-- ITEM 3 END -->
             <!-- Modal -->
             <div class="modal fade" id="myModal4" role="dialog">
                 <div class="modal-dialog">
@@ -230,7 +289,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal End-->
+            <!-- Modal 3 End-->
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <!-- <img src="img/s6.png" alt=""> -->
@@ -238,7 +297,7 @@
                 <h4 class="red">Sur La Table</h4>
                 <p class="red">For our busy e-commerce site I worked with account managers to create informative, conversational product content. In addition, I was in charge of all the delicious content for the Culinary School, which entailed brainstorming with chefs, researching food trends, and creating the monthly newsletter.</p>
             </div>
-            <!-- ITEM END -->
+            <!-- ITEM 4 END -->
                         <!-- Modal -->
             <div class="modal fade" id="myModal6" role="dialog">
                 <div class="modal-dialog">
@@ -264,7 +323,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal End-->
+            <!-- Modal 4 End-->
         </div>
         <!-- SERVICE ITEMS END-->
     </div>

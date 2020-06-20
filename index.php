@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
+    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, user experience, and much more!">
     <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Writing Branding User Experience Expert">
     <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
@@ -76,7 +76,7 @@
     </header>
 <!--services-->
     <div class="container">
-      <h6 class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</h6>
+      <h6 class="wow bounceInUp" data-wow-duration="4s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</h6>
     </div>
     <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
         <div id="services" class="container" style="margin-top:20%;">

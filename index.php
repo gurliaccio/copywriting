@@ -103,8 +103,8 @@
                         </div>
                         <br>
                         <div class="modal-body">
-                            <h4 class="modal-title">Nine Different Divisions, Nine Websites and Several Display Ads</h4>
-                            <p>Our first website for Microsoft was such a hit, that eight other business groups clamored for their own. I interviewed key team members, and then created profiles that included hobbies, favorite bands, most memorable MSFT moment, and more, to give the world a taste of what it is like to work for this groundbreaking company.</p>
+                            <h4 class="modal-title">Coming Soon!</h4>
+                            <p>My first job was to create a content strategy for our new User Experience Design team. I was an army of one writer, working alongside interactive designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Next up, selling our skills to the wider enterprise, not an easy task for an admittedly siloed organization.</p>
 
                             <img src="img/vmw2.jpg">
                             <br><br>

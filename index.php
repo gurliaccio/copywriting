@@ -104,28 +104,6 @@
                         </div>
                         <br>
                         <div class="modal-body">
-                            <img src="img/vmw2.jpg">
-                            <br><br>
-                            <h4 class="modal-title">Mobile Division Website, Event Collateral, and Print</h4>
-                            <p>When Microsoft’s mobile division moved into South Lake Union, they called on us to create a website, print ads, billboards, and more.
-                            </p>
-                            <p>I also recommended they get involved in Mind Camp. For the 24-hour, weekend-long event we created custom energy drink labels (“No Rest for the Wicked Smart”), t-shirts and a way for Microsoft to capture interested attendees’ information by means of a printed Compatibility Test with tear-away contact information.</p>
-                            <br>
-                            <img src="img/msftslucomh1.jpg">
-                            <img src="img/s1.jpg">
-                            <img src="img/s2.jpg" style="width:100%">
-                            <img src="img/drinksncards.jpg">
-                            <img src="img/s4.jpg">
-                            <img src="img/s5.jpg">
-                            <br><br>
-                            <h4 class="modal-title">User Research Division Website, Display Ads, and Magazine Ads</h4>
-                            <p>The print campaign and display ads we developed led anyone interested in taking part in a Microsoft study to a website we created with details about the program, and a way to apply.</p>
-                            <br>
-                            <img src="img/msftur.jpg">
-                            <img src="img/msfthereditary.jpg">
-                            <img src="img/msftjustagame.jpg">
-                            <img src="img/msftthumb.jpg">
-                            <img src="img/msftagree.jpg">
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

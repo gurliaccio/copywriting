@@ -74,7 +74,7 @@
 
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#about"><span class="btnicon icon-user"></span>About Me</a></li>
+                        <li><a href="#about"><span class="btnicon icon-user"></span>Me</a></li>
                         <li><a href="#services"><span class="btnicon icon-cup"></span>Selected Work</a></li>
                         <!-- <li><a href="#portfolio"><span class="btnicon icon-rocket"></span>Portfolio</a></li> -->
                         <!-- <li><a href="#testimonials"><span class="btnicon icon-bubble"></span>Testimonials</a></li> -->

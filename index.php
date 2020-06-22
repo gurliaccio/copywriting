@@ -219,7 +219,43 @@
             </div>
             <!-- Modal 1 End-->
 
+             <!-- Item 3 -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
+                <!-- <img src="img/s4.png" alt=""> -->
+                <i class="fas fa-cloud fa-7x"></i>
+                <h4 class="red">Oracle</h4>
+                <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
+            </div>
+            <!-- ITEM 3 END -->
 
+            <!-- Modal 3 -->
+            <div class="modal fade" id="myModal4" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Oracle</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Verizon Wireless Web Pages, Email Campaigns, and Newsletter. Things move fast in the telecom industry, but we moved faster.</p>
+
+                            <img src="img/z1.jpg">
+                            <img src="img/z2.jpg">
+                            <img src="img/z3.jpg">
+                            <br><br>
+                            <p>I also got to add, edit, and manage content for the Extra Storage Space consumer-facing website.</p>
+                            <img src="img/ess.jpg">
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal 3 End-->
+
+
+            <!-- Item 2 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
@@ -227,6 +263,7 @@
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
             </div>
             <!-- ITEM 2 END -->
+
             <!-- Modal 2 -->
             <div class="modal fade" id="myModal3" role="dialog">
                 <div class="modal-dialog">
@@ -258,51 +295,19 @@
             </div>
             <!-- Modal 2 End-->
 
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-                <!-- <img src="img/s4.png" alt=""> -->
-                <i class="fas fa-cloud fa-7x"></i>
-                <h4 class="red">Oracle</h4>
-                <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
-            </div>
-            <!-- ITEM 3 END -->
-            <!-- Modal -->
-            <div class="modal fade" id="myModal4" role="dialog">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Oracle</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>Verizon Wireless Web Pages, Email Campaigns, and Newsletter. Things move fast in the telecom industry, but we moved faster.</p>
-
-                            <img src="img/z1.jpg">
-                            <img src="img/z2.jpg">
-                            <img src="img/z3.jpg">
-                            <br><br>
-                            <p>I also got to add, edit, and manage content for the Extra Storage Space consumer-facing website.</p>
-                            <img src="img/ess.jpg">
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal 3 End-->
-
- <!-- Item 1 -->
+           
+            <!-- Item 4 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
                 <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
             </div>
-            <!-- ITEM 1 END -->
+            <!-- ITEM 4 END -->
 
 
 
-            <!-- Modal 1 -->
+            <!-- Modal 4 -->
             <div class="modal fade" id="myModal2" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -344,21 +349,22 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 1 End-->
+            <!-- Modal 4 End-->
 
 
 
 
 
-
+            <!-- Item 5 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <!-- <img src="img/s6.png" alt=""> -->
                 <i class="fas fa-utensils fa-7x"></i>
                 <h4 class="red">Sur La Table</h4>
                 <p class="red">For our busy e-commerce site I worked with account managers to create informative, conversational product content. In addition, I was in charge of all the delicious content for the Culinary School, which entailed brainstorming with chefs, researching food trends, and creating the monthly newsletter.</p>
             </div>
-            <!-- ITEM 4 END -->
-                        <!-- Modal -->
+            <!-- ITEM 5 END -->
+            
+            <!-- Modal 5 -->
             <div class="modal fade" id="myModal6" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -383,7 +389,8 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 4 End-->
+            <!-- Modal 5 End-->
+
         </div>
         <!-- SERVICE ITEMS END-->
     </div>

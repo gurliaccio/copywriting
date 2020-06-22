@@ -91,7 +91,7 @@
     SERVICE SECTION START
     =========================== -->
         <div id= "aboutme" class="container">
-           <p class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist, and UX writer currently fascinated with AI and blockchain, the future of healthcare technology, old stand-up comedy, my electronic drum set, the unreal island of Sardinia, and all the exotic food on Buford Highway.</p>
+           <p class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</p>
         </div>
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
@@ -111,8 +111,8 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
-                <h4 class="red">Ford</h4>
-                <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
+                <h4 class="red">Anthem</h4>
+                <p class="red">The titans of healthcare are not known to be innovators, so I was hired to help change all that. I work on the UX team with designers, developers, researchers, and product managers to build and maintain engaging experiences for our web and mobile properties.</p>
             </div>
             <!-- ITEM 0 END -->
 
@@ -124,10 +124,10 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Ford</h4>
+                            <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+                            <p>My first job was to create a content strategy for our new User Experience Design team. As a writer I was an army of one, working alongside designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
 
                         <video width="98%" controls>
                             <source src="img/f1.mp4" type="video/mp4">

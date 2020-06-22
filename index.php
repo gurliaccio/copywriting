@@ -168,8 +168,8 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
-                <h4 class="red">Ford</h4>
-                <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
+                <h4 class="red">Microsoft</h4>
+                <p class="red">To help attract the best developer talent in the world, we collaborated with nine separate business units (including the User Research and Mobile divisions) to offer a glimpse into life at the legendary company. Everyone loved our work so much, JWT was hired as the AOR.</p>
             </div>
             <!-- ITEM 1 END -->
 
@@ -181,34 +181,34 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Ford</h4>
+                            <h4 class="modal-title">Microsoft</h4>
                         </div>
                         <div class="modal-body">
-                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+                             <h4 class="modal-title">Nine Different Divisions, Nine Websites and Several Display Ads</h4>
+                            <p>Our first website for Microsoft was such a hit, that eight other business groups clamored for their own. I interviewed key team members, and then created profiles that included hobbies, favorite bands, most memorable MSFT moment, and more, to give the world a taste of what it is like to work for this groundbreaking company.</p>
 
-                        <video width="98%" controls>
-                            <source src="img/f1.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f2.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f3.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f4.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <img src="img/f1.jpg">
-                        <img src="img/f2.jpg" style="width:100%">
-                        <img src="img/f3.jpg">
+                            <img src="img/vmw2.jpg">
+                            <br><br>
+                            <h4 class="modal-title">Mobile Division Website, Event Collateral, and Print</h4>
+                            <p>When Microsoft’s mobile division moved into South Lake Union, they called on us to create a website, print ads, billboards, and more.
+                            </p>
+                            <p>I also recommended they get involved in Mind Camp. For the 24-hour, weekend-long event we created custom energy drink labels (“No Rest for the Wicked Smart”), t-shirts and a way for Microsoft to capture interested attendees’ information by means of a printed Compatibility Test with tear-away contact information.</p>
+                            <br>
+                            <img src="img/msftslucomh1.jpg">
+                            <img src="img/s1.jpg">
+                            <img src="img/s2.jpg" style="width:100%">
+                            <img src="img/drinksncards.jpg">
+                            <img src="img/s4.jpg">
+                            <img src="img/s5.jpg">
+                            <br><br>
+                            <h4 class="modal-title">User Research Division Website, Display Ads, and Magazine Ads</h4>
+                            <p>The print campaign and display ads we developed led anyone interested in taking part in a Microsoft study to a website we created with details about the program, and a way to apply.</p>
+                            <br>
+                            <img src="img/msftur.jpg">
+                            <img src="img/msfthereditary.jpg">
+                            <img src="img/msftjustagame.jpg">
+                            <img src="img/msftthumb.jpg">
+                            <img src="img/msftagree.jpg">
 
                         </div>
                         <div class="modal-footer">
@@ -349,7 +349,7 @@
 
 
 
-            
+
 
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
                 <!-- <img src="img/s6.png" alt=""> -->

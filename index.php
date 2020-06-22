@@ -108,7 +108,7 @@
             
 
             <!-- Item 0 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal0">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
@@ -119,7 +119,7 @@
 
 
             <!-- Modal 0 -->
-            <div class="modal fade" id="myModal2" role="dialog">
+            <div class="modal fade" id="myModal0" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -165,7 +165,7 @@
 
             
             <!-- Item 1 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal1">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Microsoft</h4>
@@ -176,7 +176,7 @@
 
 
             <!-- Modal 1 -->
-            <div class="modal fade" id="myModal2" role="dialog">
+            <div class="modal fade" id="myModal1" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -219,17 +219,17 @@
             </div>
             <!-- Modal 1 End-->
 
-             <!-- Item 3 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
+             <!-- Item 2 -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s4.png" alt=""> -->
                 <i class="fas fa-cloud fa-7x"></i>
                 <h4 class="red">Oracle</h4>
                 <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
-            <!-- ITEM 3 END -->
+            <!-- ITEM 2 END -->
 
-            <!-- Modal 3 -->
-            <div class="modal fade" id="myModal4" role="dialog">
+            <!-- Modal 2 -->
+            <div class="modal fade" id="myModal2" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -252,19 +252,19 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 3 End-->
+            <!-- Modal 2 End-->
 
 
-            <!-- Item 2 -->
+            <!-- Item 3 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">AIG</h4>
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
             </div>
-            <!-- ITEM 2 END -->
+            <!-- ITEM 3 END -->
 
-            <!-- Modal 2 -->
+            <!-- Modal 3 -->
             <div class="modal fade" id="myModal3" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -293,11 +293,11 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 2 End-->
+            <!-- Modal 3 End-->
 
            
             <!-- Item 4 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
@@ -308,7 +308,7 @@
 
 
             <!-- Modal 4 -->
-            <div class="modal fade" id="myModal2" role="dialog">
+            <div class="modal fade" id="myModal4" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -356,7 +356,7 @@
 
 
             <!-- Item 5 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal6">
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">
                 <!-- <img src="img/s6.png" alt=""> -->
                 <i class="fas fa-utensils fa-7x"></i>
                 <h4 class="red">Sur La Table</h4>
@@ -365,7 +365,7 @@
             <!-- ITEM 5 END -->
             
             <!-- Modal 5 -->
-            <div class="modal fade" id="myModal6" role="dialog">
+            <div class="modal fade" id="myModal5" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">

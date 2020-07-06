@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Michael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
+    <meta name="description" content="Micxhael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
     <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Writing Branding User Experience Expert">
     <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
@@ -372,7 +372,7 @@
                             <p>People on the West Coast are familiar with this brand, but for East Coasters it's relatively new to the brandscape. Sur La Table was founded in Seattle's Pike Place Market, where their flagship store remains. With now more than 100 stores across the country, it's a place where serious cooks can find an enormous selection of culinary tools from around the world, with the help of knowledgeable employees who love cooking and entertaining, too.</p>
                             <br>
                             <p>E-commerce Website Copy</p>
-                            <a href="surlatable.com"<img src="img/slt1.jpg"></a>
+                            <a href="surlatable.com"><img src="img/slt1.jpg"></a>
                             <br>
                             <a href="surlatable.com"<img src="img/slt3.jpg"></a>
                             <br><br>

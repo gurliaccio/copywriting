@@ -129,10 +129,10 @@
                         <div class="modal-body">
                             <p>My first job was to create a content strategy for our new hybrid team. As a writer I was an army of one, working alongside designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
 
-                            <img src="foundry1.png">
-                            <img src="foundry2.png">
-                            <img src="foundry3.png">
-                            <img src="foundry4.png">
+                            <img src="foundry1.tiff">
+                            <img src="foundry2.tiff">
+                            <img src="foundry3.tiff">
+                            <img src="foundry4.tiff">
 
                             <p>Then a design system of course!</p>
 

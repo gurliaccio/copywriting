@@ -91,7 +91,7 @@
     SERVICE SECTION START
     =========================== -->
         <div id= "aboutme" class="container">
-           <p class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</p>
+           <h3 class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist and UX writer currently fascinated with AI, the future of healthcare, stand-up comedy, my electronic drum set, and the unreal island of Sardinia.</h3>
         </div>
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>

@@ -130,16 +130,16 @@
                             <p>My first job was to create a content strategy for our new hybrid team. As a writer I was an army of one, working alongside designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
 
                             <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
-                            <img src="foundry2.png">
-                            <img src="foundry3.png">
-                            <img src="foundry4.png">
+                            <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>
+                            <a href = "https://foundry.paricus.media/who"><img src="foundry3.png"></a>
+                            <a href = "https://foundry.paricus.media/who"><img src="foundry4.png"></a>
 
                             <p>Then a design system of course!</p>
 
-                            <a href ="https://design.anthem.com/design-system/><img src="motif1.png"></a>
-                            <img src="motif2.png">
-                            <img src="motif3.png">
-                            <img src="motif4.png">
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
 
                             
 

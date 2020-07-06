@@ -112,7 +112,7 @@
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">The titans of healthcare are not known to be digital innovators, so I was hired to help change all that. At Anthem's Digital Foundry, I work on a hybrid team of designers, developers, researchers, product managers, and business stakeholders to build and maintain engaging digital experiences for our web and mobile properties.</p>
+                <p class="red">At Anthem's Digital Foundry, I work on a hybrid team of designers, developers, researchers, product managers, and stakeholders to build and maintain engaging digital experiences for our web and mobile properties.</p>
             </div>
             <!-- ITEM 0 END -->
 
@@ -129,14 +129,14 @@
                         <div class="modal-body">
                             <p>My first job was to create a content strategy for our new hybrid team. As a writer I was an army of one, working alongside designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
 
-                            <img src="foundry1.png">
+                            <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
                             <img src="foundry2.png">
                             <img src="foundry3.png">
                             <img src="foundry4.png">
 
                             <p>Then a design system of course!</p>
 
-                            <img src="motif1.png">
+                            <a href ="https://design.anthem.com/design-system/><img src="motif1.png"></a>
                             <img src="motif2.png">
                             <img src="motif3.png">
                             <img src="motif4.png">

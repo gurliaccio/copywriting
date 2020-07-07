@@ -374,10 +374,10 @@
                             <p>E-commerce Website Copy</p>
                             <a href="https://www.surlatable.com/"><img src="img/slt1.jpg"></a>
                             <br>
-                            <a href="https://www.surlatable.com/"<img src="img/slt3.jpg"></a>
+                            <a href="https://www.surlatable.com/"><img src="img/slt3.jpg"></a>
                             <br><br>
                             <p>Culinary School Website Copy</p>
-                            <a href="https://www.surlatable.com/"<img src="img/slt2.jpg"></a>
+                            <a href="https://www.surlatable.com/"><img src="img/slt2.jpg"></a>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

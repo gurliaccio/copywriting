@@ -141,8 +141,8 @@
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
 
-                            
-
+                            <p>Coming soon, a friendly Soul Machine that helps our users navigate member onboarding, helps new teammates get up to speed, and makes understanding health care easier than ever before.</p>
+                            <a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a>
 
                          <!-- <video width="98%" controls>
                             <source src="img/f4.mp4" type="video/mp4">

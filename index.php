@@ -103,7 +103,7 @@
        <div id="services" class="container" style="margin-top:20%;">
         <div style="margin-top: 20px;" class="sectionhead  row wow fadeInUp">
             <!-- <span class="bigicon icon-cup "></span> -->
-            <h3 style="margin-top: 50px;color:#000000" >Select a Client for Samples of My Work</h3>
+            <h3 style="margin-top: 10px;color:#000000" >Select a Client for Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

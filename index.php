@@ -129,22 +129,22 @@
                             <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>My first job was to create a content strategy for our new hybrid team. As a writer I was an army of one, working alongside designers, developers and senior leadership to fashion our branding from the ground up. First a website showcasing our talents, then every bit of communications that came from our diverse group. Since our organization is admittedly quite siloed, our skills then needed to be sold to the wider enterprise to attract new business partners.</p>
+                            <p>I work alongside designers, developers, researchers, product managers, and senior leadership to improve UX across all Anthem digital properties. First up, to attract new business partners we created a website showcasing our team's talents.</p>
 
                             <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
-                            <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>
+                            <!-- <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>
                             <a href = "https://foundry.paricus.media/who"><img src="foundry3.png"></a>
-                            <a href = "https://foundry.paricus.media/who"><img src="foundry4.png"></a>
+                            <a href = "https://foundry.paricus.media/who"><img src="foundry4.png"></a> -->
 
-                            <p>Then a design system of course!</p>
+                            <p>Then we built the company's first design system, Motif.</p>
 
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
-                            <a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
+                            <!--<a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
-                            <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a> -->
 
-                            <p>Coming soon, a friendly Soul Machine that helps our users navigate member onboarding, helps new teammates get up to speed, and makes understanding health care easier than ever before.</p>
-                            <a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a>
+                            <!-- <p>Coming soon, a friendly Soul Machine that helps our users navigate member onboarding, helps new teammates get up to speed, and makes understanding health care easier than ever before.</p>
+                            <a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a> -->
 
                          <!-- <video width="98%" controls>
                             <source src="img/f4.mp4" type="video/mp4">

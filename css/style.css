@@ -5,7 +5,9 @@
    list-style: none;
 }
 div h3 {
-  color:#000000;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: darkgrey;
 }
 .red {
   color: #000000;
@@ -150,7 +152,8 @@ TYPOGRAPHY
 
 .bigicon {font-size: 3em;}
 
-h1{font-family: 'Raleway', sans-serif;font-size: 66px;color: #000000;}
+h1{font-family: 'Raleway', sans-serif;font-size: 66px;color: #000000; -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: darkgrey;}
 h2{font-family: 'Raleway', sans-serif;font-size: 42px;color: #000000;}
 h3{font-family: 'Raleway', sans-serif;font-size: 28px;color: #000000;}
 h4{font-family: 'Raleway', sans-serif;font-size: 18px; line-height: 1.4em;color: #000000;}

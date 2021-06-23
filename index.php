@@ -46,7 +46,7 @@
             <video autoplay muted playsinline loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
 
             <div class="container herocontent">
-                <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, I'm Michael</h1>
+                <h1 class="wow fadeInUp" data-wow-duration="4s">Hi, I'm Michael</h1>
             </div>
 
         </div>
@@ -102,7 +102,7 @@
     
        <div id="services" class="container" style="margin-top:5%;">
         <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">
-             <span class="bigicon icon-cup "></span> 
+             <!-- <span class="bigicon icon-cup "></span> -->
             <h3 style="margin-top: 5px;color:#000000" >Select a Client to View Samples of My Work</h3>
         </div>
         <!-- SERVICE ITEMS START -->

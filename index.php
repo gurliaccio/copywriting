@@ -97,7 +97,7 @@
 <br><br><br><br>
 
         <div id= "aboutme" class="container">
-           <h3 class="wow bounceInUp" data-wow-duration="5s" style="margin-top: 580px;color:black" >I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.<br><br>Select a Client for Samples of My Work</h3>
+           <h3 class="wow bounceInUp" data-wow-duration="5s" style="margin-top: 580px;color:black" >I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.</h3>
         </div>
     
        <div id="services" class="container" style="margin-top:5%;">

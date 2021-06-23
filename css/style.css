@@ -152,8 +152,7 @@ TYPOGRAPHY
 
 .bigicon {font-size: 3em;}
 
-h1{font-family: 'Raleway', sans-serif;font-size: 66px;color: white; -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: darkgrey;}
+h1{font-family: 'Raleway', sans-serif;font-size: 66px;color: white;}
 h2{font-family: 'Raleway', sans-serif;font-size: 42px;color: #000000;}
 h3{font-family: 'Raleway', sans-serif;font-size: 28px;color: #000000;}
 h4{font-family: 'Raleway', sans-serif;font-size: 18px; line-height: 1.4em;color: #000000;}
@@ -244,7 +243,7 @@ HERO AREA
    max-width: 900px;
 }
 .heroshot{
-   margin-top: 20px;
+   margin-top: 120px;
    width: 30%;
 
 }

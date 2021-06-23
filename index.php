@@ -97,14 +97,14 @@
 <br><br><br><br>
 
         <div id= "aboutme" class="container">
-           <h3 class="wow bounceInUp" data-wow-duration="5s" style="margin-top: 600px;color:black" >I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.<br><br>Select a Client for Samples of My Work</h3>
+           <h3 class="wow bounceInUp" data-wow-duration="5s" style="margin-top: 580px;color:black" >I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.<br><br>Select a Client for Samples of My Work</h3>
         </div>
     
-       <!--<div id="services" class="container" style="margin-top:20%;">
-        <div style="margin-top: 20px;" class="sectionhead  row wow fadeInUp">
+       <div id="services" class="container" style="margin-top:5%;">
+        <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">
              <span class="bigicon icon-cup "></span> 
-            <h3 style="margin-top: 10px;color:#000000" >Select a Client for Samples of My Work</h3>
-        </div>-->
+            <h3 style="margin-top: 5px;color:#000000" >Select a Client to View Samples of My Work</h3>
+        </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">
             

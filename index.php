@@ -43,7 +43,7 @@
         =========================== -->
         <div id="hero">
 
-            <video autoplay muted loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
+            <video autoplay muted playsinline loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video>
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" data-wow-duration="2s">Hi, </h1><h1 class="wow fadeInDown" data-wow-duration="4s">I'm Michael.</h1>

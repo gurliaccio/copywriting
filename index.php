@@ -47,7 +47,7 @@
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" data-wow-duration="2s">Hi,</h1>
-                <h1> I'm Michael.</h1>
+                <h1> I'm Michael</h1>
             </div>
 
         </div>
@@ -91,14 +91,16 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-        <div id= "aboutme" class="container">
-           <h3 class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.</h3>
-        </div>
+
 
         <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
 
 <br><br><br><br>
 
+        <div id= "aboutme" class="container">
+           <h3 class="wow bounceInUp" data-wow-duration="8s">I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.</h3>
+        </div>
+    
        <div id="services" class="container" style="margin-top:20%;">
         <div style="margin-top: 50px;" class="sectionhead  row wow fadeInUp">
             <!-- <span class="bigicon icon-cup "></span> -->

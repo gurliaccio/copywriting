@@ -114,7 +114,7 @@
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">At Anthem's Digital Foundry, I work on a hybrid team of designers, developers, researchers, product managers, and stakeholders to build and maintain engaging digital experiences for our web and mobile properties.</p>
+                <p class="red">At Anthem's Digital Foundry, I collaborate with a hybrid team of designers, developers, researchers, product managers, and stakeholders to build and improve our web and mobile experiences.</p>
             </div>
             <!-- ITEM 0 END -->
 
@@ -129,21 +129,21 @@
                             <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>I work alongside designers, developers, researchers, product managers, and senior leadership to improve UX across all Anthem digital properties. First up, to attract new business partners we created a website showcasing our team's talents.</p>
+                            <p>To attract new business partners we created a website showcasing our multidisciplinary team's talents. Select the image to visit the site.</p>
 
                             <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
                             <!-- <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>
                             <a href = "https://foundry.paricus.media/who"><img src="foundry3.png"></a>
                             <a href = "https://foundry.paricus.media/who"><img src="foundry4.png"></a> -->
 
-                            <p>Then we built the company's first design system, Motif.</p>
+                            <p>Then we built the company's first design system, Motif. To head over there now, select the image.</p>
 
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
                             <!--<a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a> -->
 
-                            <!-- <p>Coming soon, a friendly Soul Machine that helps our users navigate member onboarding, helps new teammates get up to speed, and makes understanding health care easier than ever before.</p>
+                            <!-- <p>We use collaborative tools like Miro, Sketch, Zeplin, InVision to create industry-leading digital properties our users love.</p>
                             <a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a> -->
 
                          <!-- <video width="98%" controls>

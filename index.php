@@ -129,7 +129,7 @@
                             <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>To attract new business partners we created a website showcasing our multidisciplinary team's talents. Select the image to visit the site.</p>
+                            <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. Select the image to visit the site.</p>
 
                             <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
                             <!-- <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>

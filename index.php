@@ -114,7 +114,7 @@
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">At Anthem's Digital Foundry, I collaborate with a hybrid team of designers, developers, researchers, product managers, and stakeholders to build and improve our web and mobile experiences.</p>
+                <p class="red">At Anthem's Digital Foundry, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
             </div>
             <!-- ITEM 0 END -->
 
@@ -143,13 +143,13 @@
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a> -->
 
-                            <!-- <p>We use collaborative tools like Miro, Sketch, Zeplin, InVision to create industry-leading digital properties our users love.</p>
-                            <a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a> -->
+                            <p>Next up, a re-imagined house call, courtesy of augmented reality (AR).</p>
+                            <!--<a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a>-->
 
-                         <!-- <video width="98%" controls>
-                            <source src="img/f4.mp4" type="video/mp4">
+                            <video width="98%" controls>
+                            <source src="img/ARHouseCall.mp4" type="video/mp4">
                                 Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
-                        </video> -->
+                        </video>
 
                         </div>
                         <div class="modal-footer">

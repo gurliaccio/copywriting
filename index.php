@@ -129,21 +129,22 @@
                             <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. Select the image to visit the site.</p>
+                            <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. You'll find a few screen grabs below. (Unfortunately the site is behind our firewall.)</p>
 
-                            <a href = "https://foundry.paricus.media/who"><img src="foundry1.png"></a>
-                            <!-- <a href = "https://foundry.paricus.media/who"><img src="foundry2.png"></a>
-                            <a href = "https://foundry.paricus.media/who"><img src="foundry3.png"></a>
-                            <a href = "https://foundry.paricus.media/who"><img src="foundry4.png"></a> -->
+                            <img src="foundry1.png"></a>
+                            <!-- <a href = "https://foundry.paricus.media/who"> -->
+                            <img src="foundry2.png"></a>
+                            <img src="foundry3.png"></a>
+                            <img src="foundry4.png"></a> 
 
-                            <p>Then we built the company's first design system, Motif. To head over there now, select the image.</p>
+                            <p>Then, we built the company's first design system, Motif. To head over there now, select the image.</p>
 
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
                             <!--<a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a> -->
 
-                            <p>Next up, a re-imagined house call, courtesy of augmented reality (AR).</p>
+                            <p>Next up, a reimagined house call, courtesy of augmented reality (AR).</p>
                             <!--<a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a>-->
 
                             <video width="98%" controls>

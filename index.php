@@ -156,7 +156,7 @@
                         </video>
 
                         <p>Our COVID-19 Health Pass </p>
-                        <img src="img/chd.jpg"></a> 
+                        <img style="max-width: 30%; height: auto;" src="img/chd.jpg"></a> 
 
 
                         </div>

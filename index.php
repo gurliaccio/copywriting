@@ -132,7 +132,6 @@
                             <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. You'll find a few screen grabs below. (Unfortunately the site is behind our firewall.)</p>
 
                             <img src="foundry1.png"></a>
-                            <!-- <a href = "https://foundry.paricus.media/who"> -->
                             <img src="foundry2.png"></a>
                             <img src="foundry3.png"></a>
                             <img src="foundry4.png"></a> 
@@ -140,17 +139,24 @@
                             <p>Then, we built the company's first design system, Motif. To head over there now, select the image.</p>
 
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
-                            <!--<a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
-                            <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a> -->
+                            <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
 
                             <p>Next up, a reimagined house call, courtesy of augmented reality (AR).</p>
-                            <!--<a href ="https://www.soulmachines.com/"/><img src="sm1.png"></a>-->
-
                             <video width="98%" controls>
                             <source src="img/ARHouseCall.mp4" type="video/mp4">
                                 Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
                         </video>
+
+                        <p>Plus, we built a site dedicated to ethical AI.</p>                
+                        <video width="98%" controls>
+                            <source src="img/AnthemAI.mp4" type="video/mp4">
+                                Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
+                        </video>
+
+                        <p>Our COVID-19 Health Pass </p>
+
 
                         </div>
                         <div class="modal-footer">

@@ -114,7 +114,7 @@
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
-                <p class="red">At Anthem's Digital Foundry, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
+                <p class="red">At Anthem's <b>Digital Foundry</b>, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
             </div>
             <!-- ITEM 0 END -->
 
@@ -130,33 +130,35 @@
                         </div>
                         <div class="modal-body">
                             <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. You'll find a few screen grabs below. (Unfortunately the site is behind our firewall.)</p>
-
+                            <!-- Foundry Website -->
                             <img src="foundry1.png"></a>
                             <img src="foundry2.png"></a>
                             <img src="foundry3.png"></a>
                             <img src="foundry4.png"></a> 
-
+                            
+                            <!-- Motif Design System -->
                             <p>Then, we built the company's first design system, Motif. To head over there now, select the image.</p>
-
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
 
+                            <!-- AR New House Call Video -->
                             <p>Next up, a reimagined house call, courtesy of augmented reality (AR).</p>
                             <video width="98%" controls>
                             <source src="img/ARHouseCall.mp4" type="video/mp4">
                                 Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
-                        </video>
-
-                        <p>Plus, we built a site dedicated to ethical AI.</p>                
-                        <video width="98%" controls>
+                            </video>
+                            <!-- Ethical AI Website -->
+                            <p>Our minisite dedicated to ethical AI.</p>                
+                            <video width="98%" controls>
                             <source src="img/AnthemAI.mp4" type="video/mp4">
                                 Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
                         </video>
 
                         <p>Our COVID-19 Health Pass </p>
-                        <img style="max-width: 30%; height: auto;" src="img/chd.jpg"></a> 
+                        <img style="max-width: 45%; height: auto;" src="img/CHP1.jpg"></a> 
+                        <img style="max-width: 45%; height: auto;" src="img/CHP2.jpg"></a> 
 
 
                         </div>

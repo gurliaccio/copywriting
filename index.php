@@ -117,9 +117,6 @@
                 <p class="red">At Anthem's <b>Digital Foundry</b>, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
             </div>
             <!-- ITEM 0 END -->
-
-
-
             <!-- Modal 0 -->
             <div class="modal fade" id="myModal0" role="dialog">
                 <div class="modal-dialog">
@@ -129,7 +126,7 @@
                             <h4 class="modal-title">Anthem</h4>
                         </div>
                         <div class="modal-body">
-                            <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. You'll find a few screen grabs below. (Unfortunately the site is behind our firewall.)</p>
+                            <p>To attract new business partners, we created a website showcasing our multidisciplinary team's talents. You'll find a few screen grabs below. (Unfortunately, the site is behind our firewall.)</p>
                             <!-- Foundry Website -->
                             <img src="foundry1.png"></a>
                             <img src="foundry2.png"></a>
@@ -137,29 +134,28 @@
                             <img src="foundry4.png"></a> 
                             
                             <!-- Motif Design System -->
-                            <p>Then, we built the company's first design system, Motif. To head over there now, select the image.</p>
+                            <p>Then, we built the company's first design system, Motif. That's right, the first! Exciting project with enormous impact. To head over there now, select the image.</p>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif1.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif2.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif3.png"></a>
                             <a href ="https://design.anthem.com/design-system"/><img src="motif4.png"></a>
 
                             <!-- AR New House Call Video -->
-                            <p>Next up, a reimagined house call, courtesy of augmented reality (AR).</p>
+                            <p>Next up, a reimagined house call, courtesy of augmented reality (AR). I think this might be my favorite Foundry initiative of EVER!</p>
                             <video width="98%" controls>
                             <source src="img/ARHouseCall.mp4" type="video/mp4">
-                                Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
+                                Step into the future and download Chrome, my friend. I still like you, don't get me wrong. But your browser doesn't support video. I know what you're thinking. How does it not? MY THOUGHTS EXACTLY. And you need video right now, no?!
                             </video>
-                            <!-- Ethical AI Website -->
+                            <!-- Ethical AI Website 
                             <p>Our minisite dedicated to ethical AI.</p>                
                             <video width="98%" controls>
                             <source src="img/AnthemAI.mp4" type="video/mp4">
                                 Step into the future and download Chrome, my friend. I still like you, but your browser doesn't support video. And you need video right now.
-                        </video>
+                        </video> -->
 
-                        <p>Our COVID-19 Health Pass </p>
+                        <p>It felt somehow very personal to work on a COVID-19 Health Pass for more than 60 million people. This is more than an app feature. This is a new way of thinking about the future of healthcare.</p>
                         <img style="max-width: 45%; height: auto;" src="img/CHP1.jpg"></a> 
                         <img style="max-width: 45%; height: auto;" src="img/CHP2.jpg"></a> 
-
 
                         </div>
                         <div class="modal-footer">

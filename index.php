@@ -113,7 +113,7 @@
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">Google Cloud</h4>
-                <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. So, I joined a tiny but mighty Content Strategy team that is part of Solutions Engineering.</p>
+                <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.</p>
             </div>
             <!-- ITEM 1 END -->
 
@@ -123,12 +123,12 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">AIG</h4>
+                            <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
                             <p></p>
 
-                            <!-- <img src="img/CS for BOM.jpg"> -->
+                            <img src="img/CSBOM.jpg">
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">

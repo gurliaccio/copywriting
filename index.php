@@ -47,8 +47,7 @@
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">Hi,</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">I'm</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">Michael</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">I'm<br>Michael</h1>
             </div>
 
         </div>
@@ -259,12 +258,53 @@
             <!-- Modal 2 End-->
 
 
-            <!-- Item 3 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
+            <!-- OLD Item 3 -->
+             <!--<div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">AIG</h4>
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
+            </div> -->
+            <!-- ITEM 3 END -->
+
+            <!-- Modal 3 -->
+             <!--<div class="modal fade" id="myModal3" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">AIG</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
+
+                            <img src="img/economics.jpg">
+                            <br>
+                            <video width="98%" controls poster="img/aigposter.gif">
+                                <source src="img/aigvideo.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                            </video>
+                            <br>
+                            <img src="img/aigbrick-1.jpg">
+                            <img src="img/aigpipe-1.jpg">
+                            <img src="img/aigsuperheroes-1.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <!-- Modal 3 End-->
+            
+
+            <!-- New Item 3 -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
+                <!-- <img src="img/s3.png" alt=""> -->
+                <i class="fas fa-house-damage fa-7x"></i>
+                <h4 class="red">Google Cloud</h4>
+                <p class="red">hoho yaya meme here.</p>
             </div>
             <!-- ITEM 3 END -->
 
@@ -298,8 +338,7 @@
                 </div>
             </div>
             <!-- Modal 3 End-->
-
-           
+             
             <!-- Item 4 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <!-- <img src="img/s1.png" alt=""> -->

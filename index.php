@@ -128,7 +128,7 @@
                         <div class="modal-body">
                             <p>Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.<br><br>Click below to open our BOM Content Strategy deck:</p>
                             <a href="https://docs.google.com/presentation/d/1LNPTraSroI-m43Q1N_hEM34ezUl9YLlTGL-ElqAP754/edit?resourcekey=0-wxAie2SqHt7xkzRdXPE02w">
-                            <img style="border:2px solid #555" src="img/CSBOM.jpeg"/>
+                            <img style="border:1px solid black" src="img/CSBOM.jpeg"/>
                             </a>
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">

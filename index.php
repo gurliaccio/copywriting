@@ -91,11 +91,9 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
+    <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
 
-
-        <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
-
-<br><br><br><br>
+    <br><br><br><br>
 
         <div id= "aboutme" class="container">
            <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm a copywriter, content strategist and UX writer fascinated with AI, stand-up comedy, the future of technology, my electronic drum set, and the unreal island of Sardinia.</h3>

@@ -46,9 +46,9 @@
             <!-- <video autoplay muted playsinline loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
 
             <div class="container herocontent">
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="3s">Hi,</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="5s">I'm</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="7s">Michael</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">Hi,</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">I'm</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">Michael</h1>
             </div>
 
         </div>

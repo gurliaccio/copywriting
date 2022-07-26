@@ -108,15 +108,109 @@
         <div class="row">
             
 
-            <!-- Item 0 -->
+            <!-- Item 1 Google-->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
+                <!-- <img src="img/s3.png" alt=""> -->
+                <i class="fas fa-house-damage fa-7x"></i>
+                <h4 class="red">Google Cloud</h4>
+                <p class="red">hoho yaya meme here.</p>
+            </div>
+            <!-- ITEM 1 END -->
+
+            <!-- Modal 1 -->
+            <div class="modal fade" id="myModal3" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">AIG</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
+
+                            <img src="img/economics.jpg">
+                            <br>
+                            <video width="98%" controls poster="img/aigposter.gif">
+                                <source src="img/aigvideo.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                            </video>
+                            <br>
+                            <img src="img/aigbrick-1.jpg">
+                            <img src="img/aigpipe-1.jpg">
+                            <img src="img/aigsuperheroes-1.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal 1 Google End-->
+        
+            <!-- Item 2 TMO -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
+                <!--<img src="img/s1.png" alt=""> -->
+                <i class="fas fa-car fa-7x"></i>
+                <h4 class="red">T-Mobile</h4>
+                <p class="red">this is the deal here.</p>
+            </div>
+             <!-- ITEM 2 END -->
+
+            <!-- Modal 2 -->
+            <div class="modal fade" id="myModal4" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Ford</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+
+                        <video width="98%" controls>
+                            <source src="img/f1.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f2.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f3.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f4.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <img src="img/f1.jpg">
+                        <img src="img/f2.jpg" style="width:100%">
+                        <img src="img/f3.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal 2 TMO End -->
+        
+            <!-- Item 3 ANTHEM-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal0">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Anthem</h4>
                 <p class="red">At Anthem's <b>Digital Foundry</b>, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
             </div>
-            <!-- ITEM 0 END -->
-            <!-- Modal 0 -->
+            <!-- ITEM 3 END -->
+
+            <!-- Modal 3 -->
             <div class="modal fade" id="myModal0" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -163,22 +257,18 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 0 End-->
-
-
+            <!-- Modal 3 ANTHEM End-->
             
-            <!-- Item 1 -->
+            <!-- Item 4 MSFT -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal1">
                 <!-- <img src="img/s1.png" alt=""> -->
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Microsoft</h4>
                 <p class="red">To help attract the best developer talent in the world, we collaborated with nine separate business units (including the User Research and Mobile divisions) to offer a glimpse into life at the legendary company. Everyone loved our work so much, JWT was hired as the AOR.</p>
             </div>
-            <!-- ITEM 1 END -->
+            <!-- ITEM 4 END -->
 
-
-
-            <!-- Modal 1 -->
+            <!-- Modal 4 -->
             <div class="modal fade" id="myModal1" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -220,18 +310,18 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 1 End-->
+            <!-- Modal 4 MSFT End-->
 
-             <!-- Item 2 -->
+             <!-- Item 5 Oracle -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
                 <!-- <img src="img/s4.png" alt=""> -->
                 <i class="fas fa-cloud fa-7x"></i>
                 <h4 class="red">Oracle</h4>
                 <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>
-            <!-- ITEM 2 END -->
+            <!-- ITEM 4 END -->
 
-            <!-- Modal 2 -->
+            <!-- Modal 5 -->
             <div class="modal fade" id="myModal2" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -255,10 +345,10 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 2 End-->
+            <!-- Modal 5 Oracle End-->
 
 
-            <!-- OLD Item 3 
+            <!-- OLD Item 3 AIG
              <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <img src="img/s3.png" alt="">
                 <i class="fas fa-house-damage fa-7x"></i>
@@ -300,47 +390,9 @@
             -->
             
 
-            <!-- New Item 3 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-                <!-- <img src="img/s3.png" alt=""> -->
-                <i class="fas fa-house-damage fa-7x"></i>
-                <h4 class="red">Google Cloud</h4>
-                <p class="red">hoho yaya meme here.</p>
-            </div>
-            <!-- ITEM 3 END -->
-
-            <!-- Modal 3 -->
-            <div class="modal fade" id="myModal3" role="dialog">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">AIG</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
-
-                            <img src="img/economics.jpg">
-                            <br>
-                            <video width="98%" controls poster="img/aigposter.gif">
-                                <source src="img/aigvideo.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                            </video>
-                            <br>
-                            <img src="img/aigbrick-1.jpg">
-                            <img src="img/aigpipe-1.jpg">
-                            <img src="img/aigsuperheroes-1.jpg">
-
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal 3 End-->
+            
              
-            <!-- OLD Item 4
+            <!-- OLD Item 4 Ford
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <img src="img/s1.png" alt="">
                 <i class="fas fa-car fa-7x"></i>
@@ -394,62 +446,8 @@
                 </div>
             </div>
             Modal 4 End
-            -->
 
-            <!-- NEW Item 4 -->
-            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-                <!--<img src="img/s1.png" alt=""> -->
-                <i class="fas fa-car fa-7x"></i>
-                <h4 class="red">T-Mobile</h4>
-                <p class="red">this is the deal here.</p>
-            </div>
-             <!-- ITEM 4 END -->
-
-
-
-            <!-- Modal 4 -->
-            <div class="modal fade" id="myModal4" role="dialog">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Ford</h4>
-                        </div>
-                        <div class="modal-body">
-                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
-
-                        <video width="98%" controls>
-                            <source src="img/f1.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f2.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f3.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f4.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <img src="img/f1.jpg">
-                        <img src="img/f2.jpg" style="width:100%">
-                        <img src="img/f3.jpg">
-
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal 4 End -->
+            
 
             <!-- Item 5 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">

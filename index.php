@@ -113,7 +113,7 @@
                 <!-- <img src="img/s3.png" alt=""> -->
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">Google Cloud</h4>
-                <p class="red">hoho yaya meme here.</p>
+                <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. So, I joined a tiny but mighty Content Strategy team that is part of Solutions Engineering.</p>
             </div>
             <!-- ITEM 1 END -->
 
@@ -126,9 +126,9 @@
                             <h4 class="modal-title">AIG</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Our client was very interested in changing the way their current and potential customers thought about them. AIG as a whole took a big hit after the bailout, and key customer experience indicators were very low. We were hired to help management make the case that the customer is priority number one.</p>
+                            <p></p>
 
-                            <img src="img/economics.jpg">
+                            <!-- <img src="img/CS for BOM.jpg"> -->
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">

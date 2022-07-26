@@ -258,17 +258,17 @@
             <!-- Modal 2 End-->
 
 
-            <!-- OLD Item 3 -->
-             <!--<div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-                <!-- <img src="img/s3.png" alt=""> -->
+            <!-- OLD Item 3 
+             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
+                <img src="img/s3.png" alt="">
                 <i class="fas fa-house-damage fa-7x"></i>
                 <h4 class="red">AIG</h4>
                 <p class="red">I led a team of writers on an enterprise-wide, integrated-media push to dramatically improve CX. Working closely with executives, I was ghostwriter on external and internal presentations, and created content for web pages, print, email campaigns, collateral, and videos.</p>
-            </div> -->
-            <!-- ITEM 3 END -->
+            </div>
+            ITEM 3 END 
 
-            <!-- Modal 3 -->
-             <!--<div class="modal fade" id="myModal3" role="dialog">
+            Modal 3
+             <div class="modal fade" id="myModal3" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
@@ -295,8 +295,8 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
-            <!-- Modal 3 End-->
+            </div> 
+            Modal 3 End -->
             
 
             <!-- New Item 3 -->

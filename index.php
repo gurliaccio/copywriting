@@ -296,7 +296,8 @@
                     </div>
                 </div>
             </div> 
-            Modal 3 End -->
+            Modal 3 End
+            -->
             
 
             <!-- New Item 3 -->

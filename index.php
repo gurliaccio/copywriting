@@ -128,7 +128,7 @@
                         <div class="modal-body">
                             <p></p>
 
-                            <img src="img/CSBOM.jpg">
+                            <img src="img/CSBOM.jpeg">
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">

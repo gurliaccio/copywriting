@@ -340,14 +340,70 @@
             </div>
             <!-- Modal 3 End-->
              
-            <!-- Item 4 -->
+            <!-- OLD Item 4
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-                <!-- <img src="img/s1.png" alt=""> -->
+                <img src="img/s1.png" alt="">
                 <i class="fas fa-car fa-7x"></i>
                 <h4 class="red">Ford</h4>
                 <p class="red">The enthusiasm at the Ford Motor Co &mdash; from senior account folks all the way down to green interns &mdash; is palpable and contagious. With everyone’s help we created fun tv and radio spots, as well as supporting print ads, that highlighted the jovial pride the Ford team has in their history.</p>
             </div>
-            <!-- ITEM 4 END -->
+             ITEM 4 END
+
+
+
+            Modal 4
+            <div class="modal fade" id="myModal4" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Ford</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+
+                        <video width="98%" controls>
+                            <source src="img/f1.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f2.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f3.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <video width="98%" controls>
+                            <source src="img/f4.mp4" type="video/mp4">
+                                Step into the future and download Chrome. Your browser does not support video!
+                        </video>
+
+                        <img src="img/f1.jpg">
+                        <img src="img/f2.jpg" style="width:100%">
+                        <img src="img/f3.jpg">
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            Modal 4 End
+            -->
+
+            <!-- NEW Item 4 -->
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
+                <img src="img/s1.png" alt="">
+                <i class="fas fa-car fa-7x"></i>
+                <h4 class="red">T-Mobile</h4>
+                <p class="red">this is the deal here.</p>
+            </div>
+             <!-- ITEM 4 END -->
 
 
 
@@ -393,11 +449,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Modal 4 End-->
-
-
-
-
+            <!-- Modal 4 End -->
 
             <!-- Item 5 -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal5">

@@ -111,7 +111,7 @@
             <!-- Item 1 Google-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <!-- <img src="img/s3.png" alt=""> -->
-                <i class="fas fa-house-damage fa-7x"></i>
+                <i class="fa-solid fa-cloud"></i>
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.</p>
             </div>

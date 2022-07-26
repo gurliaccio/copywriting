@@ -126,9 +126,9 @@
                             <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Click below to open the BOM Content Strategy deck:</p>
+                            <p>Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering. Click below to open our BOM Content Strategy deck:</p>
                             <a href="">
-                            <img style="border:5px solid #555" src="img/CSBOM.jpeg"/>
+                            <img style="border:2px solid #555" src="img/CSBOM.jpeg"/>
                             </a>
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">

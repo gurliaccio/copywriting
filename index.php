@@ -127,7 +127,9 @@
                         </div>
                         <div class="modal-body">
                             <p>Click below to open the BOM Content Strategy deck</p>
-                            <a href="" target="_blank" <img src="img/CSBOM.jpeg"/> </a>
+                            
+                            <img src="img/CSBOM.jpeg"/>
+                            
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">
                                 <source src="img/aigvideo.mp4" type="video/mp4">

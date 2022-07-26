@@ -47,7 +47,8 @@
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="3s">Hi,</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="5s">I'm Michael</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="5s">I'm</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="7s">Michael</h1>
             </div>
 
         </div>

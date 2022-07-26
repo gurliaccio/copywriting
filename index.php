@@ -126,9 +126,9 @@
                             <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Click below to open the BOM Content Strategy deck</p>
+                            <p>Click below to open the BOM Content Strategy deck:</p>
                             <a href="">
-                            <img src="img/CSBOM.jpeg"/>
+                            <img style="border:5px solid #555" src="img/CSBOM.jpeg"/>
                             </a>
                             <br>
                             <video width="98%" controls poster="img/aigposter.gif">

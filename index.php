@@ -110,12 +110,8 @@
 
             <!-- Item 1 Google-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-                <i class="fa fa-cloud"></i>
-                <i class="fa fa-cloud fa-lg"></i> fa-lg
-<i class="fa fa-cloud fa-2x"></i> fa-2x
-<i class="fa fa-cloud fa-3x"></i> fa-3x
-<i class="fa fa-cloud fa-4x"></i> fa-4x
-<i class="fa fa-cloud fa-5x"></i> fa-5x
+                
+                <i class="fa fa-cloud fa-5x"></i> 
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.</p>
             </div>

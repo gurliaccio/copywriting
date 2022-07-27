@@ -110,12 +110,7 @@
 
             <!-- Item 1 Google-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
-<<<<<<< HEAD
-                <i class="fa-cloud"></i>
-=======
-                
-                
->>>>>>> c93fc905c64b2c43756569e0986f45eef567028c
+                <i class="fa fa-cloud"></i>
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.</p>
             </div>

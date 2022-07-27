@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Micxhael Gurliaccio is a senior UX writer, copywriter, brand strategist, content strategist, interested in artificial intelligence, AI, blockchain, user experience, and much more!">
-    <meta name="keywords" content="Michael Gurliaccio Copywriter Advertising Marketing Content Strategy UX Writing Branding User Experience Expert">
+    <meta name="keywords" content="Michael Gurliaccio Senior Copywriter Content Strategy UX Writing Branding User Experience Expert">
     <meta name="author" content="Michael Edward Gurliaccio">
     <title>UX | Copy | Writer</title>
     <link rel="icon" href="https://cdn4.iconfinder.com/data/icons/business-3-4/512/bulb-512.png">

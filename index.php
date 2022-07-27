@@ -150,7 +150,6 @@
         
             <!-- Item 2 TMO -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
-                <!--<img src="img/s1.png" alt=""> -->
                 <i class="fas fa-tablet fa-7x"></i>
                 <h4 class="red">T-Mobile</h4>
                 <p class="red">this is the deal here.</p>
@@ -262,7 +261,7 @@
             <!-- Item 4 MSFT -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal1">
                 <!-- <img src="img/s1.png" alt=""> -->
-                <i class="fa fa-car fa-7x"></i>
+                <i class="fa fa-users fa-7x"></i>
                 <h4 class="red">Microsoft</h4>
                 <p class="red">To help attract the best developer talent in the world, we collaborated with nine separate business units (including the User Research and Mobile divisions) to offer a glimpse into life at the legendary company. Everyone loved our work so much, JWT was hired as the AOR.</p>
             </div>
@@ -314,8 +313,7 @@
 
              <!-- Item 5 Oracle -->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal2">
-                <!-- <img src="img/s4.png" alt=""> -->
-                <i class="fas fa-cloud fa-7x"></i>
+                <i class="fas fa-wrench fa-7x"></i>
                 <h4 class="red">Oracle</h4>
                 <p class="red">I was Senior Writer on the Verizon and Extra Storage Space content teams, part of Oracle's Cloud Marketing group. In support of our clients' product and services launches, we regularly created public-facing microsites and web pages, as well as supporting email campaigns.</p>
             </div>

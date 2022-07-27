@@ -205,7 +205,7 @@
             <!-- Item 3 ANTHEM-->
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal0">
                 <!-- <img src="img/s1.png" alt=""> -->
-                <i class="fas fa-car fa-7x"></i>
+                <i class="fa-medkit fa-7x"></i>
                 <h4 class="red">Anthem</h4>
                 <p class="red">At Anthem's <b>Digital Foundry</b>, my hybrid team of designers, developers, researchers, product managers, and business stakeholders use collaborative tools like Miro, Sketch, Zeplin, InVision, and more to create industry-leading web and mobile experiences our users love.</p>
             </div>

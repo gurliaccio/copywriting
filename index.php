@@ -152,7 +152,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <i class="fas fa-tablet fa-7x"></i>
                 <h4 class="red">T-Mobile</h4>
-                <p class="red">this is the deal here.</p>
+                <p class="red">WIP</p>
             </div>
              <!-- ITEM 2 END -->
 
@@ -165,7 +165,7 @@
                             <h4 class="modal-title">Ford</h4>
                         </div>
                         <div class="modal-body">
-                            <p>My first car was a Ford, and I drove it for 14 years. For the last two years my wife refused to get in, but that’s another story.</p>
+                            <p>WIP</p>
 
                         <video width="98%" controls>
                             <source src="img/f1.mp4" type="video/mp4">

@@ -47,11 +47,10 @@
 
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">I'm<br>Michael</h1>
-                <h2 style="color:black">I'm an enthusiastic UX Writer, Content Strategist 
-           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h2>
+                <h3 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">I'm<br>Michael</h3>
+                <h5 style="color:black">I'm an enthusiastic UX Writer, Content Strategist 
+           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h5>
             </div>
-<br><br>
         </div>
         <!--HERO AREA END-->
 

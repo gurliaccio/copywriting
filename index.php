@@ -100,7 +100,7 @@
            and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h3>
         </div>
     
-       <div id="services" class="container" style="margin-top:5%;">
+       <div id="services" class="container">
         <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">     
         <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">Select a brand below to view samples of my work</h3>
         </div>

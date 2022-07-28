@@ -113,7 +113,7 @@
                 <i class="fa fa-cloud fa-7x"></i> 
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">The small but mighty Solutions Engineering Content team was charged with creating a new content strategy and a new content lifecycle for what was an 
-                    inconsistent and incomplete content library (7,000+ assets!) across solutions, industries, and countries. I really enjoy challenges, and this was a fun one.</p>
+                    inconsistent and incomplete content library (7,000+ assets!) across solutions, industries, and countries.</p>
             </div>
             <!-- ITEM 1 END -->
 
@@ -126,7 +126,7 @@
                             <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
-                            <p>Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.<br><br>Click below to open our BOM Content Strategy deck:</p>
+                            <p>I really enjoy challenges, and this was a fun one...<br><br>Click below to open our BOM Content Strategy deck:</p>
                             <a href="https://docs.google.com/presentation/d/1LNPTraSroI-m43Q1N_hEM34ezUl9YLlTGL-ElqAP754/edit?resourcekey=0-wxAie2SqHt7xkzRdXPE02w">
                             <img style="border:1px solid black" src="img/CSBOM.jpeg"/>
                             </a>

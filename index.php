@@ -157,35 +157,12 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal">&times;</button>
-                            <h4 class="modal-title">Ford</h4>
+                            <h4 class="modal-title">T-Mobile</h4>
                         </div>
                         <div class="modal-body">
-                            <p>WIP</p>
-
-                        <video width="98%" controls>
-                            <source src="img/f1.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f2.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f3.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <video width="98%" controls>
-                            <source src="img/f4.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                        </video>
-
-                        <img src="img/f1.jpg">
-                        <img src="img/f2.jpg" style="width:100%">
-                        <img src="img/f3.jpg">
-
+                            <p>Below you’ll find a link to 12 screens we created for the brand new HINT Lite, or data-capped plans experience.
+</p>
+                        <a href="https://drive.google.com/file/d/1ung-UAQ4yV_Z2zVYBZXgZzpvuIZb_hJ8/view"><img src="img/14.jpg"></a>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

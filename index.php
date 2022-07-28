@@ -153,7 +153,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <i class="fas fa-tablet fa-7x"></i>
                 <h4 class="red">T-Mobile</h4>
-                <p class="red">WIP</p>
+                <p class="red">WIP, I promise!</p>
             </div>
              <!-- ITEM 2 END -->
 

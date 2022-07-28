@@ -428,7 +428,7 @@
                 <!-- <img src="img/s6.png" alt=""> -->
                 <i class="fas fa-utensils fa-7x"></i>
                 <h4 class="red">Sur La Table</h4>
-                <p class="red">For our busy e-commerce site I worked with account managers to create informative, conversational product content. In addition, I was in charge of all the delicious content for the Culinary School, which entailed brainstorming with chefs, researching food trends, and creating the monthly newsletter.</p>
+                <p class="red">For our busy e-commerce site I worked with account managers to create informative, conversational product content. I was also in charge of all the delicious content for the Culinary School, which entailed brainstorming with chefs, researching food trends, and creating a monthly newsletter.</p>
             </div>
             <!-- ITEM 5 END -->
             

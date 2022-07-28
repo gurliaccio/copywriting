@@ -162,7 +162,7 @@
                         <div class="modal-body">
                             <p>Below you’ll find a link to 12 screens we created for the brand new HINT Lite, or data-capped plans experience.
 </p>
-                        <a href="https://drive.google.com/file/d/1ung-UAQ4yV_Z2zVYBZXgZzpvuIZb_hJ8/view"><img src="img/14.jpg"></a>
+                        <a href="https://drive.google.com/file/d/1ung-UAQ4yV_Z2zVYBZXgZzpvuIZb_hJ8/view"><img src="img/14.jpeg"></a>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

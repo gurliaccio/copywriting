@@ -112,7 +112,8 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <i class="fa fa-cloud fa-7x"></i> 
                 <h4 class="red">Google Cloud</h4>
-                <p class="red">Senior leadership recognized that explosive growth resulted in an inconsistent and incomplete content library across solutions, industries, and countries. Then I joined a tiny but mighty Content Strategy team, part of Solutions Engineering.</p>
+                <p class="red">The Solutions Engineering team was charged with creating content strategy and lifecycle for what was an 
+                    inconsistent and incomplete content library across solutions, industries, and countries.</p>
             </div>
             <!-- ITEM 1 END -->
 

@@ -91,9 +91,6 @@
     <!-- ===========================
     SERVICE SECTION START
     =========================== -->
-    <div class="arrow bounce"><i class="fa fa-hand-pointer-o fa-flip-vertical fa-3x" aria-hidden="true"></i></div>
-
-    <br><br><br><br>
 
         <div id= "aboutme" class="container">
            <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm an enthusiastic UX Writer, Content Strategist 
@@ -102,7 +99,7 @@
     
        <div id="services" class="container">
         <div class="wow bounceInUp">     
-        <h3></h3>
+        <h3></h3><br><br>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

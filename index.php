@@ -102,7 +102,7 @@
     
        <div id="services" class="container">
         <div class="wow bounceInUp">     
-        <h3>Select a brand below to view samples of my work</h3>
+        <h3></h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

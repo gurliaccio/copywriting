@@ -131,15 +131,8 @@
                             <img style="border:1px solid black" src="img/CSBOM.jpeg"/>
                             </a>
                             <br>
-                            <video width="98%" controls poster="img/aigposter.gif">
-                                <source src="img/aigvideo.mp4" type="video/mp4">
-                                Step into the future and download Chrome. Your browser does not support video!
-                            </video>
-                            <br>
-                            <img src="img/aigbrick-1.jpg">
-                            <img src="img/aigpipe-1.jpg">
-                            <img src="img/aigsuperheroes-1.jpg">
-
+                            <p>Here's a glimpse of our new content lifecycle. There wasn't one bfefore! We carefully, and with a ton of help from our teammates, established a lifecycle to quickly and easily create or update important marketing assets.</p>
+                            <img src="img/SEContentLifecycle">
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -153,7 +146,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <i class="fas fa-tablet fa-7x"></i>
                 <h4 class="red">T-Mobile</h4>
-                <p class="red">I joined the UX team to improve the experience for 2 very interesting lines of business. The first, we call HINT, is T-Mobile Home Internet. The second is Beyond the Smartphone (BTS) or anything that's not a phone. Both are high-visibility, multidisciplinary initiatives driven by a new UX team.</p>
+                <p class="red">I joined the UX team to improve the experience for 2 very interesting lines of business. The first, we call HINT, is T-Mobile Home Internet. The second is Beyond the Smartphone or anything that's not a phone. Both are high-visibility, multidisciplinary initiatives driven by our new UX team.</p>
             </div>
              <!-- ITEM 2 END -->
 

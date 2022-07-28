@@ -46,10 +46,10 @@
             <!-- <video autoplay muted playsinline loop id="myVideo"><source src="img/1.mp4" type="video/mp4"></video> -->
 
             <div class="container herocontent">
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">Hi,</h1>
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">I'm<br>Michael</h1>
-                <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm an enthusiastic UX Writer, Content Strategist 
-           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h3>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,</h1>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">I'm<br>Michael</h1>
+                <h2 style="color:black">I'm an enthusiastic UX Writer, Content Strategist 
+           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h2>
             </div>
 
         </div>
@@ -95,8 +95,6 @@
     =========================== -->
 
         <div id= "aboutme" class="container">
-           <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm an enthusiastic UX Writer, Content Strategist 
-           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h3>
         </div>
     
        <div id="services" class="container">

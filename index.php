@@ -101,8 +101,8 @@
         </div>
     
        <div id="services" class="container">
-        <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">     
-        <h3 class="wow bounceInUp" data-wow-duration="2s" style="color:black">Select a brand below to view samples of my work</h3>
+        <div class="wow bounceInUp">     
+        <h3>Select a brand below to view samples of my work</h3>
         </div>
         <!-- SERVICE ITEMS START -->
         <div class="row">

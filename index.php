@@ -133,6 +133,8 @@
                             <br>
                             <p>Here's a glimpse of our new content lifecycle. There wasn't one bfefore! We carefully, and with a ton of help from our teammates, established a lifecycle to quickly and easily create or update important marketing assets.</p>
                             <img src="img/SEContentLifecycle.png">
+                            <br>
+                            <a href="https://www.youtube.com/watch?v=pPzPnQITGbY"><img src="img/13.jpeg"></a>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

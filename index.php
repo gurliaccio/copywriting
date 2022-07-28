@@ -103,11 +103,9 @@
         </div>
     
        <div id="services" class="container" style="margin-top:5%;">
-        <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">
-             <span class="bigicon icon-cup "></span>
-            <h3 style="margin-top: 5px;color:#000000" class="wow bounceInDown" data-wow-duration="2s">Select a Client to View Samples of My Work</h3>
+        <div style="margin-top: 5px;" class="sectionhead  row wow fadeInUp">     
+        <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">Select a brand below to view samples of my work</h3>
         </div>
-       
         <!-- SERVICE ITEMS START -->
         <div class="row">
             

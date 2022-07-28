@@ -123,12 +123,10 @@
                             <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
-                            <p>I really enjoy complex challenges, and this was a fun one...<br><br>Below is a live document I created on my first day 
+                            <p>I really enjoy complex challenges, and this was a fun one.<br>Below is a live document I created on my first day 
                             and shared with the rest of my team. 2 other people! After collaborating with folks from acrosss Google Cloud and the globe, 
-                            we handed off a scalable content strategy focusing on creating a phased approach based on sales cycles.</p>
-                            <br>
-                            <br>
-                            <p>Click below to open our Bill of Materials Content Strategy deck:</p>
+                            we handed off a scalable content strategy focusing on creating a phased approach based on sales cycles.<br>
+                            Click below to open our Bill of Materials Content Strategy deck:</p>
                             <a href="https://docs.google.com/presentation/d/1LNPTraSroI-m43Q1N_hEM34ezUl9YLlTGL-ElqAP754/edit?resourcekey=0-wxAie2SqHt7xkzRdXPE02w">
                             <img style="border:1px solid black" src="img/CSBOM.jpeg"/>
                             </a>

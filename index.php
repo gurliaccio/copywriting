@@ -151,7 +151,7 @@
             </div>
              <!-- ITEM 2 END -->
 
-            <!-- Modal 2 -->
+            <!-- Modal 2 -->     
             <div class="modal fade" id="myModal4" role="dialog">
                 <div class="modal-dialog">
                     <div class="modal-content">
@@ -166,6 +166,7 @@
                         <br>
                         <p>The second line of business I work on is what we call BTS, or Beyond the Smartphone. This means tablets, watches, hotspots, trackers, and any new IoT. Users told us the previous experience was disorganized and difficult to navigate, so we built the new hub page below.</p>
                         <a href="https://xd.adobe.com/view/b462609a-d63c-4070-984f-3148ee9fe78f-e131/screen/58844ed1-bf4d-4050-8dd6-2f63de0b156c/"><img src="img/15.jpeg"></a>
+                        
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

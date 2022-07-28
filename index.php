@@ -51,7 +51,7 @@
                 <h2 style="color:black">I'm an enthusiastic UX Writer, Content Strategist 
            and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h2>
             </div>
-
+<br><br>
         </div>
         <!--HERO AREA END-->
 
@@ -131,7 +131,7 @@
                             <img style="border:1px solid black" src="img/CSBOM.jpeg"/>
                             </a>
                             <br>
-                            <p>Here's a glimpse of our new content lifecycle. There wasn't one bfefore! We carefully, and with a ton of help from our teammates, established a lifecycle to quickly and easily create or update important marketing assets.</p>
+                            <p>Here's a glimpse of our new content lifecycle. There wasn't one before! We carefully, and with a ton of help from our teammates, established a lifecycle to quickly and easily create or update important marketing assets.</p>
                             <img src="img/SEContentLifecycle.png">
                             <br>
                             <a href="https://www.youtube.com/watch?v=pPzPnQITGbY"><img src="img/13.jpeg"></a>

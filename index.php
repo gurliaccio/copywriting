@@ -98,7 +98,7 @@
         <div id= "aboutme" class="container">
            <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm an enthusiastic UX Writer, Content Strategist 
            and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.
-           <br>
+           <br><br><br>
            Select a brand below to view samples of my work</h3>
         </div>
     

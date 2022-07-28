@@ -153,7 +153,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal4">
                 <i class="fas fa-tablet fa-7x"></i>
                 <h4 class="red">T-Mobile</h4>
-                <p class="red">WIP, I promise!</p>
+                <p class="red">I joined the UX team to improve the experience for 2 very interesting lines of business. The first, we call HINT, is T-Mobile Home Internet. Below you’ll find a link to 12 screens we created for the brand new HINT Lite, or data-capped plans experience.</p>
             </div>
              <!-- ITEM 2 END -->
 

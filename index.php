@@ -48,6 +48,8 @@
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="2s">Hi,</h1>
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="4s">I'm<br>Michael</h1>
+                <h3 class="wow bounceInUp" data-wow-duration="2s" style="margin-top: 550px;color:black">I'm an enthusiastic UX Writer, Content Strategist 
+           and Copywriter fascinated with tomorrow's technology, my electronic drum set, the unreal island of Sardinia, and so much more.</h3>
             </div>
 
         </div>

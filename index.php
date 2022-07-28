@@ -132,6 +132,7 @@
                             <p>Here's a glimpse of our new content lifecycle. There wasn't one before! With a ton of help from our teammates, we established a lifecycle to quickly and easily create or update important marketing assets.</p>
                             <img src="img/SEContentLifecycle.png">
                             <br>
+                            <p>We created the video below to help solution managers and their teams highlight the benefits of Google Cloud when meeting with C-suite executives and tech leadership. I wrote the script and worked with our designers to create a story that can be modified quickly for different client meetings.</p>
                             <a href="https://www.youtube.com/watch?v=pPzPnQITGbY"><img src="img/13.jpeg"></a>
                         </div>
                         <div class="modal-footer">

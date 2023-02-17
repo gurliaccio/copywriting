@@ -106,8 +106,8 @@
                             <h4 class="modal-title">Google Cloud</h4>
                         </div>
                         <div class="modal-body">
-                            <p>I really enjoy complex challenges and this was a fun one.<br>Below is a live document I created on my first day 
-                            and shared with the rest of my team. 2 other people! After collaborating with folks from across Google Cloud and the globe, 
+                            <p>I really enjoy complex challenges and this was a fun one.<br>Below is a live document I created 
+                            and shared with the rest of my team. After collaborating with folks from across Google Cloud and the globe, 
                             we handed off a scalable content strategy that focused on a phased approach.<br>
                             Click the image to open our deck:</p>
                             <a href="https://docs.google.com/presentation/d/1LNPTraSroI-m43Q1N_hEM34ezUl9YLlTGL-ElqAP754/edit?resourcekey=0-wxAie2SqHt7xkzRdXPE02w">

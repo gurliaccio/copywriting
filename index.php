@@ -94,7 +94,9 @@
                 <i class="fa fa-cloud fa-7x"></i> 
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">The small but mighty Solutions Engineering Content team was charged with creating a new content strategy and a new content lifecycle for what was an 
-                    inconsistent and incomplete content library (7,000+ assets!) across solutions, industries, and countries.</p>
+                    inconsistent and incomplete content library (7,000+ assets!) 
+                    
+                    solutions, industries, and countries.</p>
             </div>
             <!-- ITEM 1 END -->
             <!-- Modal 1 -->
@@ -107,7 +109,7 @@
                         </div>
                         <div class="modal-body">
                             <p>I really enjoy complex challenges and this was a fun one.<br>Below is a live document I created on my first day 
-                            and shared with the rest of my team. 2 other people! After collaborating with folks from acrosss Google Cloud and the globe, 
+                            and shared with the rest of my team. 2 other people! After collaborating with folks from across Google Cloud and the globe, 
                             we handed off a scalable content strategy that focused on a phased approach.<br>
                             Click the image to open our deck:</p>
                             <a href="https://docs.google.com/presentation/d/1LNPTraSroI-m43Q1N_hEM34ezUl9YLlTGL-ElqAP754/edit?resourcekey=0-wxAie2SqHt7xkzRdXPE02w">

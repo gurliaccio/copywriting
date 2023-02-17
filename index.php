@@ -94,9 +94,7 @@
                 <i class="fa fa-cloud fa-7x"></i> 
                 <h4 class="red">Google Cloud</h4>
                 <p class="red">The small but mighty Solutions Engineering Content team was charged with creating a new content strategy and a new content lifecycle for what was an 
-                    inconsistent and incomplete content library (7,000+ assets!) 
-                    
-                    solutions, industries, and countries.</p>
+                    inconsistent and incomplete content library (7,000+ assets!) across solutions, industries, and countries.</p>
             </div>
             <!-- ITEM 1 END -->
             <!-- Modal 1 -->

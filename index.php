@@ -44,7 +44,7 @@
         <div id="hero">
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,<br>I'm Michael</h2>
-                <h3 class="wow fadeInDown" style="color:black">Senior UX Writer | Content Strategist | Copywriter</h3>
+                <h3 class="wow fadeInDown" style="color:black">UX Writer | Content Strategist | Copywriter</h3>
             <br><br>
             </div>
         </div>
@@ -93,7 +93,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="3s" data-toggle="modal" data-target="#myModal3">
                 <i class="fa fa-cloud fa-7x"></i> 
                 <h4 class="red">Google Cloud</h4>
-                <p class="red">The small but mighty Solutions Engineering Content team was charged with creating a new content strategy and a new content lifecycle for what was an 
+                <p class="red">The mighty Solutions Engineering Content team was charged with creating a new content strategy and a new content lifecycle for what was an 
                     inconsistent and incomplete content library (7,000+ assets!) across solutions, industries, and countries.</p>
             </div>
             <!-- ITEM 1 END -->

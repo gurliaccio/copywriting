@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <script src="https://use.fontawesome.com/61acc7427d.js"></script>
     <script src="https://kit.fontawesome.com/a548c11f2e.js" crossorigin="anonymous"></script>
@@ -34,34 +33,15 @@
     =========================== -->
     <!--Replace this line with your analytics code-->
 </head>
-
 <body data-spy="scroll">
-
     <header>
             
         <!-- ===========================
         HERO AREA
         =========================== -->
         <div id="hero">
-            
-            <style>
-#text{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 50px;
-  color: white;
-  transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
-}
-</style>
-
-<div id="overlay">
-  <div id="text">Coming soon!<br>I'm currently updating my site with my most recent work. Click through to see older stuff.</div>
-</div>
-            
             <div class="container herocontent">
-                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,<br>I'm Michael</h2>
+                <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,<br>I'm Michael</h1>
                 <h3 class="wow fadeInDown" style="color:black">UX Writer | Content Strategist | Copywriter</h3>
             <br><br>
             </div>

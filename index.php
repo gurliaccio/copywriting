@@ -38,7 +38,13 @@
 <body data-spy="scroll">
 
     <header>
-<style>
+            
+        <!-- ===========================
+        HERO AREA
+        =========================== -->
+        <div id="hero">
+            
+            <style>
 #text{
   position: absolute;
   top: 50%;
@@ -54,10 +60,6 @@
   <div id="text">Coming soon!<br>I'm currently updating my site with my most recent work. Click through to see older stuff.</div>
 </div>
             
-        <!-- ===========================
-        HERO AREA
-        =========================== -->
-        <div id="hero">
             <div class="container herocontent">
                 <h1 class="wow fadeInUp" style="color:black;" data-wow-duration="1s">Hi,<br>I'm Michael</h2>
                 <h3 class="wow fadeInDown" style="color:black">UX Writer | Content Strategist | Copywriter</h3>

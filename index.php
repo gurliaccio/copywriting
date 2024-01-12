@@ -38,6 +38,22 @@
 <body data-spy="scroll">
 
     <header>
+<style>
+#text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 50px;
+  color: white;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+</style>
+
+<div id="overlay">
+  <div id="text">Coming soon!<br>I'm currently updating my site with my most recent work. Click through to see older stuff.</div>
+</div>
+            
         <!-- ===========================
         HERO AREA
         =========================== -->

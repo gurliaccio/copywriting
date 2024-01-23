@@ -143,7 +143,7 @@
                         <div class="modal-body">
                             <p>Below you’ll find a link to 12 screens we created for the brand new HINT Lite, or data-capped plans experience.
 </p>
-                        <a href="https://drive.google.com/file/d/1hLypROgsY1kyRPAnQc9aAAqJZiUZA9UE/view?usp=drive_link"><img style="max-width: 80%;" src="img/14.jpeg"></a>
+                        <a href="HINT Lite Offerings - Desktop and Mobile.pdf"><img style="max-width: 80%;" src="img/14.jpeg"></a>
                         <br>
                         <p>The second line of business I work on is what we call BTS, or Beyond the Smartphone. This means tablets, watches, hotspots, trackers, and any new IoT. Users told us the previous experience was disorganized and difficult to navigate, so we built the new hub page below.</p>
                         <a href="https://xd.adobe.com/view/b462609a-d63c-4070-984f-3148ee9fe78f-e131/screen/58844ed1-bf4d-4050-8dd6-2f63de0b156c/"><img src="img/15.jpeg"></a>   
